@@ -17,7 +17,7 @@ Total batch = 19.6lb
 - Add 'seed', minimumm 5% of total weight
 - Mold 1.6oz per Tomric G-402 well
 - Foil wrap 7.5" x 6" 
-- Thermal print label
+- print labels
 
 ### Equipment
 - Behmor 1600 Plus Roaster
