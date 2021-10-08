@@ -1,4 +1,4 @@
-## Indian 
+## Coco India 
 > Aromatic as raw beans
 
 > Flavor profile: baking chocolate, red currant
