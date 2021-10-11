@@ -1,3 +1,3 @@
 1. [Meridian](https://meridiancacao.com)
-2. [Madhava Clean and Simple](http://www.bigtreefarms.com)
-3. [Let's do Organic](https://store.edwardandsons.com/products/100-organic-coconut-flakes)
+2. [Madhava](https://www.amazon.com/gp/product/B00BBDJJL6/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+3. [Food To Live](https://www.amazon.com/gp/product/B01MDLKYBR/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
