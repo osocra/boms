@@ -1,4 +1,4 @@
-## PERSIMMON PUMPKIN
+## PERSIMMON PUMPKIN SPICE
 > Tasting notes: mocha, cedar, tangy
 
 | Item | Quantity | UoM  |
