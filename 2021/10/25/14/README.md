@@ -10,7 +10,7 @@
 | Pumpkin Spice     | 0.005 (0.08 oz)    | lb      |
 
 #### Raw Materials
-- [ ] Organic Cacao Beans -  Peru / Ucayali [[1](/vendors)]
+- [ ] Organic Cacao Beans -  Brasil / Mucambo Estate [[1](/vendors)]
 - [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
 - [ ] Organic Coconut Nectar [[2](/vendors)]
 - [ ] Dried Persimmon
