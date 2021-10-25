@@ -1,5 +1,5 @@
 ## PERSIMMON PUMPKIN SPICE
-> Tasting notes: mocha, cedar, tangy
+> Spicy and zesty, warm and sweet, indulgence your senses and body
 
 | Item | Quantity | UoM  |
 | :---     | ---:    | :--- |
@@ -13,6 +13,5 @@
 - [ ] Organic Cacao Beans -  Peru / Ucayali [[1](/vendors)]
 - [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
 - [ ] Organic Coconut Nectar [[2](/vendors)]
-- [ ] Organic Coconut [[3](/vendors)]
 - [ ] Dried Persimmon
 - [ ] Pumpkin Spice 
