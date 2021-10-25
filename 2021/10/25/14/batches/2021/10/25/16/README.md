@@ -12,9 +12,7 @@ Total batch = 9lb
 - Add cacao butter to grinder 
 - Slowly add 1 ladel of dry mix ingredients to grinder per 10 secomds 
 - Stop grinder after 5hrs, e.g. same day
-- Turn on Chocovison Revolation setting: dark, temper 2
-- Add chocolate, Temper AWAY!!!
-- Add 'seed', minimumm 5% of total weight
+- Temper
 - Mold 1.6oz per Tomric G-402 well
 - Foil wrap 7.5" x 6" 
 - print labels
