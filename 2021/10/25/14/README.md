@@ -6,7 +6,6 @@
 | Cacao Nibs  | 0.35    | lb    |
 | Cacao Butter   | 0.35    | lb    |
 | Organic Coconut Nectar    | 0.2      | lb      |
-| Organic Coconut     | 0.1      | lb      |
 | Pumpkin Spice     | 0.1      | lb      |
 
 #### Raw Materials
