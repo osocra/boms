@@ -3,5 +3,5 @@
 - Add cacao butter to pot
 - Press saute button
 - Select low temperature
-- After warm up, select 5min
+- After warm up, set timer for 10 min
 - Press start button
