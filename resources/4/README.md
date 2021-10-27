@@ -1,7 +1,7 @@
-Remove lid
-Plug in Instapot Pro 
-Add cacao butter to pot
-Press saute button
-Select low temperature
-After warm up, select 5min
-Press start button
+- Remove lid
+- Plug in Instapot Pro 
+- Add cacao butter to pot
+- Press saute button
+- Select low temperature
+- After warm up, select 5min
+- Press start button
