@@ -1,5 +1,5 @@
 ## PUMPKIN SPICE PERSIMMON 
-> Spicy and zesty, warm and sweet, indulgence your senses and body
+> Spicy and zesty, warm and sweet, indulge your senses and body
 
 | Item | Quantity | UoM  |
 | :---     | ---:    | :--- |
