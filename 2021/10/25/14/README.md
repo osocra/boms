@@ -1,4 +1,4 @@
-## PUMPKIN SPICE PERSIMMON 
+## PUMPKIN PIE SPICE PERSIMMON 
 > Spicy and zesty, warm and sweet, indulge your senses and body
 
 | Item | Quantity | UoM  |
