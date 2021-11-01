@@ -6,7 +6,7 @@
 | Cacao Nibs  | 0.35    | lb    |
 | Cacao Butter   | 0.35    | lb    |
 | Organic Coconut Nectar    | 0.2      | lb      |
-| Dried Persimmon    | 0.095     | lb      |
+| Dried Persimmon    | 0.095 (1.52 oz)    | lb      |
 | Pumpkin Spice     | 0.005 (0.08 oz)    | lb      |
 
 #### Raw Materials
