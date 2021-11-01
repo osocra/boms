@@ -1,4 +1,4 @@
-## EQUADOR / CAMINO VERDE 
+## Equador / Camino Verde
 > Tasting notes: fudgy, almond, floral
 
 [![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/collections/bars/products/21072809)
