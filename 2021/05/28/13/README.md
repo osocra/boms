@@ -1,6 +1,8 @@
 ### Coco Trinidad
 > Flavor profile: walnut brownies, cinnamon / nutmeg butter
 
+[![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/collections/bars/products/21052813)
+
 | Item | Quantity | UoM  |
 | :---     | ---:    | :--- |
 | Cacao Nibs  | 0.35    | lb    |
