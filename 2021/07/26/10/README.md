@@ -1,6 +1,8 @@
 ## VIETNAM / MAROU ORIGINS - DAK NONG PROVINCE
 > Tasting notes: raisin, marzipan, cocoa
 
+[![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/collections/bars/products/21072610)
+
 | Item | Quantity | UoM  |
 | :---     | ---:    | :--- |
 | Cacao Nibs  | 0.35    | lb    |
