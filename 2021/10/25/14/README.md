@@ -1,7 +1,8 @@
 ## PUMPKIN PIE SPICE PERSIMMON 
 > Spicy and zesty, warm and sweet, indulge your senses and body
 
-[Buy](https://shop.osocra.com/collections/bars/products/21102514)
+[![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/collections/bars/products/21102514)
+
 
 | Item | Quantity | UoM  |
 | :---     | ---:    | :--- |
