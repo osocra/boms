@@ -12,7 +12,7 @@
 | Turmeric     | 0.005 (0.08 oz)    | lb      |
 
 #### Raw Materials
-- [ ] Organic Cacao Beans -  Brasil / Mucambo Estate [[4](/vendors)]
+- [ ] Organic Cacao Beans -  Equador / Camino Verde [[1](/vendors)]
 - [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
 - [ ] Organic Coconut Nectar [[2](/vendors)]
 - [ ] Organic Ginger, Freeze Dried
