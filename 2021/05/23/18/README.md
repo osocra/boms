@@ -3,6 +3,8 @@
 
 > Flavor profile: baking chocolate, red currant
 
+[![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/collections/bars/products/21052318)
+
 | Item | Quantity | UoM  |
 | :---     | ---:    | :--- |
 | Cacao Nibs  | 0.35    | lb    |
