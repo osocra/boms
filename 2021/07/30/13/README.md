@@ -1,6 +1,8 @@
 ## PERU / UCAYALI 
 > Tasting notes: mocha, cedar, tangy
 
+[![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/collections/bars/products/21073013)
+
 | Item | Quantity | UoM  |
 | :---     | ---:    | :--- |
 | Cacao Nibs  | 0.35    | lb    |
