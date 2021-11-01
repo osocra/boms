@@ -1,6 +1,8 @@
 ## EQUADOR / CAMINO VERDE 
 > Tasting notes: fudgy, almond, floral
 
+[![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/collections/bars/products/21072809)
+
 | Item | Quantity | UoM  |
 | :---     | ---:    | :--- |
 | Cacao Nibs  | 0.35    | lb    |
