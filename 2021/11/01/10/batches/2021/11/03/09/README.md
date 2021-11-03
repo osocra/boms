@@ -10,7 +10,7 @@ Total batch = 9lb
 - Melt cacao butter in Instapot Pro on saute, low
 - Start grinder 
 - Add cacao butter to grinder 
-- Slowly add 1 ladel of dry mix ingredients to grinder per 10 secomds 
+- Slowly add 1 ladel of dry mix ingredients to grinder per 10 seconds (colder weather may cause whipping of chocolate)
 - Stop grinder after 5hrs, e.g. same day
 - Temper
 - Add 7 pistahsios per Mold 1.6oz per Tomric G-402 well
