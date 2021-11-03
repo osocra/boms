@@ -10,6 +10,8 @@ Total batch = 9lb
 - Melt cacao butter in Instapot Pro on saute, low
 - Start grinder 
 - Add cacao butter to grinder 
+- Slowly add 5 ladels of dry mix ingredients to grinder
+- Grind for 10min
 - Slowly add 1 ladel of dry mix ingredients to grinder per 10 secomds 
 - Stop grinder after 5hrs, e.g. same day
 - Temper
