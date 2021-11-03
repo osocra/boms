@@ -13,7 +13,7 @@ Total batch = 9lb
 - Slowly add 1 ladel of dry mix ingredients to grinder per 10 secomds 
 - Stop grinder after 5hrs, e.g. same day
 - Temper
-- Mold 1.6oz per Tomric G-402 well
+- Add 7 pistahsios per Mold 1.6oz per Tomric G-402 well
 - Foil wrap 7.5" x 6" 
 - print labels
 
