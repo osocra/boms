@@ -1,5 +1,5 @@
 
-## Cashew
+## Just Cacao and Cashew
 > No sugar!
 
 [![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/collections/bars/products/21110712)
