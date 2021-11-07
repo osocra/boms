@@ -5,7 +5,7 @@
 4. Wrap
 5. Label
 
-Total batch = 19.6lb
+Total batch = 17.0lb
 - Mix dry ingredients in separate bag
 - Melt cacao butter in Instapot Pro on saute, low
 - Start grinder 
