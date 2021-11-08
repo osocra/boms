@@ -11,6 +11,6 @@
 | Cashews    | 0.3      | lb      |
 
 #### Raw Materials
-- [ ] Organic Cacao Beans -  Equador / Camino Verde [[1](/vendors)]
+- [ ] Organic Cacao Beans -  Peru / Ucayali [[1](/vendors)]
 - [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
 - [ ] Organic Cashew
