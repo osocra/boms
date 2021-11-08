@@ -1,6 +1,7 @@
 
 ## Just Cacao and Cashew
-> FREE of: Sugar · Dairy · Gluten · Soy
+> Creamy
+> Free of: Sugar · Dairy · Gluten · Soy
 
 [![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/collections/bars/products/21110712)
 
