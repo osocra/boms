@@ -1,6 +1,6 @@
 ## Rooibos Latte
 Tanzania
-> Tasting notes: 
+> Flavors: Creamy, Gentle, Nutty
 
 [![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/collections/bars/products/21110916)
 
