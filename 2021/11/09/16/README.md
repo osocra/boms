@@ -2,7 +2,7 @@
 Tanzania
 > Tasting notes: 
 
-[![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/collections/bars/products/21073013)
+[![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/collections/bars/products/21110916)
 
 | Item | Quantity | UoM  |
 | :---     | ---:    | :--- |
