@@ -1,4 +1,4 @@
-## Just Rooibos Latte
+## Rooibos Latte
 Tanzania
 > Tasting notes: 
 
@@ -8,11 +8,11 @@ Tanzania
 | :---     | ---:    | :--- |
 | Cacao Nibs  | 0.05   | lb    |
 | Cacao Butter   | 0.55   | lb    |
-| Organic Cashew   | 0.38  | lb      |
-| Organic Rooibos   | 0.02 (0.32 oz) | lb      |
+| Cashew   | 0.38  | lb      |
+| Rooibos   | 0.02 (0.32 oz) | lb      |
 
 #### Raw Materials
-- [ ] Organic Cacao Beans -  Brasil / Ucayali [[1](/vendors)]
+- [ ] Organic Cacao Beans -  Tanzania / Kokoa Kamili [[1](/vendors)]
 - [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
 - [ ] Organic Cashew [[2](/vendors)]
 - [ ] Organic Rooibos
