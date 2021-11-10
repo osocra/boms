@@ -11,7 +11,7 @@
 | Organic Coconut     | 0.1      | lb      |
 
 #### Raw Materials
-- [ ] Organic Cacao Beans - Brasil - Mucambo Estate [[4](/vendors)]
+- [ ] Organic Cacao Beans - Brasil / Mucambo Estate [[4](/vendors)]
 - [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
 - [ ] Organic Coconut Blossom Nectar [[2](/vendors)]
 - [ ] Organic Coconut [[3](/vendors)]
