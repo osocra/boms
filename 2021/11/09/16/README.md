@@ -16,3 +16,4 @@
 - [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
 - [ ] Organic Cashew [[2](/vendors)]
 - [ ] Organic Rooibos
+- [ ] Organic Cinnamon
