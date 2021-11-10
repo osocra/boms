@@ -1,16 +1,18 @@
-## Just Cacao and Pistachios
+## Just Rooibos Latte
 Tanzania
-> Tasting notes: mocha, cedar, tangy
+> Tasting notes: 
 
 [![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/collections/bars/products/21073013)
 
 | Item | Quantity | UoM  |
 | :---     | ---:    | :--- |
-| Cacao Nibs  | 0.20   | lb    |
-| Cacao Butter   | 0.40    | lb    |
-| Organic Pistachio   | 0.40     | lb      |
+| Cacao Nibs  | 0.05   | lb    |
+| Cacao Butter   | 0.55   | lb    |
+| Organic Cashew   | 0.40     | lb      |
+| Organic Rooibos   | ?     | lb      |
 
 #### Raw Materials
-- [ ] Organic Cacao Beans -  Peru / Ucayali [[1](/vendors)]
+- [ ] Organic Cacao Beans -  Brasil / Ucayali [[1](/vendors)]
 - [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
-- [ ] Organic Pistachio [[2](/vendors)]
+- [ ] Organic Cashew [[2](/vendors)]
+- [ ] Organic Rooibos
