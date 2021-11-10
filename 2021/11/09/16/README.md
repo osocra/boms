@@ -8,8 +8,8 @@ Tanzania
 | :---     | ---:    | :--- |
 | Cacao Nibs  | 0.05   | lb    |
 | Cacao Butter   | 0.55   | lb    |
-| Organic Cashew   | 0.40     | lb      |
-| Organic Rooibos   | ?     | lb      |
+| Organic Cashew   | 0.38     | lb      |
+| Organic Rooibos   | 0.02     | lb      |
 
 #### Raw Materials
 - [ ] Organic Cacao Beans -  Brasil / Ucayali [[1](/vendors)]
