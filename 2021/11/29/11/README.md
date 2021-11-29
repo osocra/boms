@@ -13,8 +13,8 @@
 
 
 #### Raw Materials
-- [ ] Organic Cacao Beans -  Brasil / Mucambo Estate [[4](/vendors)]
-- [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
+- [ ] Organic Cacao Beans
+- [ ] Organic Cacao Butter
 - [ ] Organic Coconut Sugar [[5](/vendors)]
 - [ ] Organic Coconut Flakes [[6](/vendors)]
 - [ ] Organic Almond Paste
