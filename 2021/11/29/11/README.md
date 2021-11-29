@@ -17,4 +17,4 @@
 - [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
 - [ ] Organic Coconut Sugar [[5](/vendors)]
 - [ ] Organic Coconut Flakes [[6](/vendors)]
-- [ ] Almond Paste
+- [ ] Organic Almond Paste
