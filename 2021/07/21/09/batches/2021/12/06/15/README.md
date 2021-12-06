@@ -13,7 +13,7 @@
 - roast settings 1 P3 C Start
 - Crack using Champion 2000+ juicer 
 - Sylph winnower settings: vaccuum adjustment valve closed , discriminator valve closed
-- caco nibs recovery 80% (3.43lbs), 13.9oz husks
+- caco nibs recovery 80% (xxlbs), 13.9oz husks
 
 Total batch = 9.8lb
 - Mix dry ingredients in separate bag
