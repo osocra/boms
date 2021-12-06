@@ -9,7 +9,7 @@
 8. Label
 
 ### Notes
-- 4.4lbs raw beans, 4.354 roasted beans
+- 4.4lbs raw beans
 - roast settings 1 P3 C Start
 - Crack using Champion 2000+ juicer 
 - Sylph winnower settings: vaccuum adjustment valve closed , discriminator valve closed
