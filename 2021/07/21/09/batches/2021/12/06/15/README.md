@@ -13,7 +13,7 @@
 - roast settings 1 P3 C Start
 - Crack using Champion 2000+ juicer 
 - Sylph winnower settings: vaccuum adjustment valve closed , discriminator valve closed
-- caco nibs recovery 80% (4.19lbs)
+- caco nibs recovery 80% or greater expected
 
 Total batch = 9.8lb
 - Mix dry ingredients in separate bag
@@ -21,7 +21,7 @@ Total batch = 9.8lb
 - Start grinder 
 - Add cacao butter to grinder 
 - Slowly add 1 ladel of dry mix ingredients to grinder per 10 secomds 
-- Stop grinder after XXhrs, e.g. next day (2nd day)
+- Stop grinder after 43hrs, e.g.(2nd day)
 - Turn on Chocovison Revolation setting: dark, temper 2
 - Add chocolate, Temper AWAY!!!
 - Add 'seed', minimumm 5% of total weight
