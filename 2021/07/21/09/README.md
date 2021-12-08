@@ -13,5 +13,5 @@
 #### Raw Materials
 - [ ] Organic Cacao Beans -  Tanzania/ Kokoa Kamili [[1](/vendors)]
 - [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
-- [ ] Organic Coconut Sugar [[5](/vendors)]
-- [ ] Organic Coconut Flakes [[6](/vendors)]
+- [ ] Organic Coconut Sugar [[2](/vendors)]
+- [ ] Organic Coconut Flakes [[3](/vendors)]
