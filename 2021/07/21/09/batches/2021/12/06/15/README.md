@@ -21,7 +21,7 @@ Total batch = 9.8lb
 - Start grinder 
 - Add cacao butter to grinder 
 - Slowly add 1 ladel of dry mix ingredients to grinder per 10 secomds 
-- Stop grinder after 43hrs, e.g.(2nd day)
+- Stop grinder after 43hrs, e.g.(2nd day) Start 20211206 @ 4pm , End 20211208  @ 10am
 - Turn on Chocovison Revolation setting: dark, temper 2
 - Add chocolate, Temper AWAY!!!
 - Add 'seed', minimumm 5% of total weight
@@ -49,4 +49,4 @@ Total batch = 9.8lb
 - NewAir Fridge setting 5
   - add 3 fans (each fan separated by 3 shelves) on high setting
 - fill fridge to capacaity, 2 molds (8 bars) per shelf
-- YES! XX Bars successfully molded!
+- YES! 98 Bars successfully molded!
