@@ -11,7 +11,7 @@ Total batch = 9.8lb
 - Start grinder 
 - Add cacao butter to grinder 
 - Slowly add 1 ladel of dry mix ingredients to grinder per 10 secomds 
-- Stop grinder:
+- Start grinder:
 - End Grinder: 
 - Turn on Chocovison Revolation setting: dark, temper 2
 - Add chocolate, Temper AWAY!!!
