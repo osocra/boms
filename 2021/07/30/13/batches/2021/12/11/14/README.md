@@ -11,8 +11,8 @@ Total batch = 9.8lb
 - Start grinder 
 - Add cacao butter to grinder 
 - Slowly add 1 ladel of dry mix ingredients to grinder per 10 secomds 
-- Start grinder: 6:55pm
-- End Grinder: 
+- Start grinder: 6:55pm but full ingredients not until 10:45am next day
+- End Grinder: 11:00am
 - Turn on Chocovison Revolation setting: dark, temper 2
 - Add chocolate, Temper AWAY!!!
 - Add 'seed', minimumm 5% of total weight
