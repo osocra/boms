@@ -9,8 +9,8 @@
 | Cacao Nibs  | 0.14   | lb    |
 | Cashew   | 0.26  | lb      |
 | Coconut Nectar   | 0.20 | lb      |
-| Rooibos   | 0.01 (0.11 oz) | lb      |
-| Cinnamon   | 0.01 (0.11 oz) | lb      |
+| Rooibos   | 0.01 (0.16 oz) | lb      |
+| Cinnamon   | 0.01 (0.16 oz) | lb      |
 
 #### Raw Materials
 - [ ] Organic Cacao Beans -  Tanzania / Kokoa Kamili Estate [[1](/vendors)]
