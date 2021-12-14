@@ -2,7 +2,7 @@
 - Remelted previous BOM that didn't have any sweetener
 - Added 2.7lbs of Nectar and 1.4 lbs of Nibs to 89 bars (i.e. 8.9 lbs) of previous BOM bars remelted in instant pot and reground for 4 hours
 - Can really taste the cinnamon now
-- Still a little gritty -- grind for longer when redoing this BOM
+- Still a little gritty -- grind for longer for next batch of this BOM
 - Good holiday flavors. Very pleasant. Really does tasted like a Latte
 
 ### Tasks
