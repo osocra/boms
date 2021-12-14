@@ -8,7 +8,7 @@
 | Cacao Butter   | 0.38   | lb    |
 | Cacao Nibs  | 0.14   | lb    |
 | Cashew   | 0.26  | lb      |
-| Coconut Nectar   | 0.21 | lb      |
+| Coconut Nectar   | 0.20 | lb      |
 | Rooibos   | 0.01 (0.11 oz) | lb      |
 | Cinnamon   | 0.01 (0.11 oz) | lb      |
 
