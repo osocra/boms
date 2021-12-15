@@ -1,5 +1,5 @@
 ## Extra Virgin Olive Oil 
-> Tasting notes: mocha, cedar, tangy
+> Tasting notes: Citrus, Smooth
 
 [![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/collections/bars/products/21121510)
 
