@@ -2,6 +2,7 @@
 - 3.8lbs of Nibs but still doing calcs for 9.8lbs*BOM
 - Reena grinder
 - Mucambo Brasil Beans
+- Took a while to fully load grinder due to foaming but BOMS fully loaded at 7:15pm
 
 ### Tasks
 1. Grind
