@@ -2,6 +2,7 @@
 - 3.8lbs of Nibs but still doing calcs for 9.8lbs*BOM
 - Joseph grinder
 - Mucambo Brasil Beans
+- took a while to fully load grinder due to foaming but BOMS fully loaded at 6:15pm
 
 ### Tasks
 1. Grind
