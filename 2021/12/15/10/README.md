@@ -11,7 +11,7 @@
 | Extra Virgin Olive Oil     | 0.10      | lb      |
 
 #### Raw Materials
-- [ ] Organic Cacao Beans -  Peru / Ucayali [[1](/vendors)]
+- [ ] Organic Cacao Beans -  Brasil / Mucambo [[4](/vendors)]
 - [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
 - [ ] Organic Coconut Nectar [[2](/vendors)]
 - [ ] Organic Extra Virgin Olive Oil
