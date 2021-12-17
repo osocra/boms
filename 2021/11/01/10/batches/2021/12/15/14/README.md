@@ -3,6 +3,8 @@
 - Reena grinder
 - Mucambo Brasil Beans
 - Took a while to fully load grinder due to foaming but BOMS fully loaded at 7:15pm
+- Add to Temper at 9am on 2nd day (12/17/21)
+- Add 7 pistachios per Mold 1.6oz per Tomric G-402 well
 
 ### Tasks
 1. Grind
