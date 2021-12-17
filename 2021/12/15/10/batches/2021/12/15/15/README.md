@@ -3,7 +3,7 @@
 - Joseph grinder
 - Mucambo Brasil Beans
 - Took a while to fully load grinder due to foaming but BOMS fully loaded at 6:15pm
-- Add Olive Oil to grinder @ 9am on day 2 (12/17/21)
+- Added Olive Oil to grinder @ 9am on day 2 (12/17/21)
 
 ### Tasks
 1. Grind
