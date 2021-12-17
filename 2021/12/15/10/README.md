@@ -14,4 +14,4 @@
 - [ ] Organic Cacao Beans -  Brasil / Mucambo [[4](/vendors)]
 - [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
 - [ ] Organic Coconut Nectar [[2](/vendors)]
-- [ ] Organic Extra Virgin Olive Oil
+- [ ] Organic Extra Virgin Olive Oil [[5](/vendors)]
