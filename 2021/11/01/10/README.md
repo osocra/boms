@@ -15,5 +15,5 @@
 - [ ] Organic Cacao Beans -  Equador / Camino Verde [[1](/vendors)]
 - [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
 - [ ] Organic Coconut Nectar [[2](/vendors)]
-- [ ] Organic Pistachio
-- [ ] Pink Salt
+- [ ] Organic Pistachio [[7](/vendors)]
+- [ ] Pink Salt [[6](/vendors)]
