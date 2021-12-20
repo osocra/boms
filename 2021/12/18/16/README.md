@@ -8,7 +8,7 @@
 | Cacao Nibs  | 0.37    | lb    |
 | Cacao Butter   | 0.37    | lb    |
 | Organic Coconut Nectar    | 0.21      | lb      |
-| Mandarin Infused Extra Virgin Olive Oil     | 0.05      | lb      |
+| Mandarin Infused Extra Virgin Olive Oil     | 0.05 (0.8 oz)     | lb      |
 
 #### Raw Materials
 - [ ] Organic Cacao Beans -  Brasil / Mucambo [[4](/vendors)]
