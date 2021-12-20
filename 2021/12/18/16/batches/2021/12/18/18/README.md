@@ -1,8 +1,9 @@
 ### Laboratory Observations
-- 3.8lbs of Nibs but still doing calcs for 9.8lbs*BOM
+- Calcs for batch size of 9.8lb
 - Reena grinder
 - Mucambo Brasil Beans
-- Would not grind due to cold weather but added Infra red lights to heat which increased temps to 135 degrees
+- Would not grind due to cold weather but added Infra red lights to heat which increased temps to 137 degrees
+- removed infra red lamps at 8pm and 2 hours later (10pm) temperature is holding steady at 91 degrees while grinding
 
 ### Tasks
 1. Grind
