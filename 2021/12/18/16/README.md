@@ -14,4 +14,4 @@
 - [ ] Organic Cacao Beans -  Brasil / Mucambo [[4](/vendors)]
 - [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
 - [ ] Organic Coconut Nectar [[2](/vendors)]
-- [ ] Mandarin Infused Extra Virgin Olive Oil [[2](/vendors)]
+- [ ] Mandarin Infused Extra Virgin Olive Oil [[8](/vendors)]
