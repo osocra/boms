@@ -1,4 +1,4 @@
-## Mandarin Infused Extra Virgin Olive Oil 
+## Blood Orange Extra Virgin Olive Oil 
 > Tasting notes: Citrus, Smooth
 
 [![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/collections/bars/products/21121816)
@@ -14,4 +14,4 @@
 - [ ] Organic Cacao Beans -  Brasil / Mucambo [[4](/vendors)]
 - [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
 - [ ] Organic Coconut Nectar [[2](/vendors)]
-- [ ] Mandarin Infused Extra Virgin Olive Oil [[8](/vendors)]
+- [ ] Blood Orange Extra Virgin Olive Oil [[8](/vendors)]
