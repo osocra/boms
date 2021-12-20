@@ -5,3 +5,4 @@
 5. [California Olive Ranch](https://californiaoliveranch.com/product/100-california-everyday/)
 6. [Pepper Creek Ranch](https://peppercreekfarms.com/product/himalayan-pink-salt-2lb-bag-fine/)
 7. [Fiddyment Farms](https://www.fiddymentfarms.com/1-lb.-kernels/1-lb.-kernels-salt-free/)
+8. [Amphora Nueva Marin](https://amphoranueva.com/marin/)
