@@ -15,3 +15,6 @@
 - [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
 - [ ] Organic Coconut Nectar [[2](/vendors)]
 - [ ] Blood Orange Extra Virgin Olive Oil [[8](/vendors)]
+
+#### Pro Tip
+- 200ml (6.7 Fl Oz) Olive Oil Bottle from Amphora Nueva for 9.8lb 35/35/20/10 calcs give this BOM
