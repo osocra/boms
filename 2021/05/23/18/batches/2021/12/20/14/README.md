@@ -2,6 +2,7 @@
 - Used One Infra Red lamp which reduced ingredient load times greatly
 - Started loading BOM at noon and finished at 2pm (20Dec21)
 - grinder started wobbling at night. Had to remove and clean base and shaft quickly before the grind solidified. Make sure to be less than 9.8lbs for the Spectra grinder next time
+- stopped grinding at 9:50am on 22Dec
 
 
 #### Tasks
