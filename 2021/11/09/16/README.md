@@ -16,5 +16,6 @@
 - [ ] Organic Cacao Beans -  Tanzania / Kokoa Kamili Estate [[1](/vendors)]
 - [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
 - [ ] Organic Cashew [[2](/vendors)]
+- [ ] Organic Coconut Nectar [[3](/vendors)]
 - [ ] Organic Rooibos
 - [ ] Organic Cinnamon
