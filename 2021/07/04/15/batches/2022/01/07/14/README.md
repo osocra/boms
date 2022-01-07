@@ -1,7 +1,6 @@
 
 ### Laboratory Observations
 - Calcs for batch size of 9.5lb
-- Roasted 4lbs of beans, cracked + winnowed immediately after, Nib recovery is 91.5% after 3 x winnowed
 - Reena grinder
 - Mucambo Brasil Beans
 - ... added Infra red lights to heat which increased temps to XX degrees
