@@ -1,12 +1,12 @@
 
 ### Laboratory Observations
-- add Ingredient mix 1 full scoop at a time - ensure mix doesn't 'fly' outside of grinder
-- BOMs AWAY!
-- NewAir Fridge setting 5
-  - add 5 fans (each fan separated by 3 shelves, 2 each on lower shelves) on high setting
-- fill fridge to capacaity, 2 molds (8 bars) per shelf
-- Conching (loosen Spectra Knob) 1hr before finish grind to add shine to bars
-- YES! XX Bars successfully molded!
+- Calcs for batch size of 9.5lb
+- Roasted 4lbs of beans, cracked + winnowed immediately after, Nib recovery is 91.5% after 3 x winnowed
+- Reena grinder
+- Mucambo Brasil Beans
+- ... added Infra red lights to heat which increased temps to XX degrees
+- removed infra red lamps ...
+
 
 ### Tasks
 1. Grind
