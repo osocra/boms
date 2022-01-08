@@ -17,10 +17,10 @@
 Total batch = 9.5lb
 - Mix dry ingredients in separate bag
 - Melt cacao butter in Instapot Pro on saute, low
-- Start grinder 
+- Start grinder @ ??
 - Add cacao butter to grinder 
 - Slowly add 1 ladel of dry mix ingredients to grinder per 10 secomds 
-- Stop grinder after 5hrs
+- Stop grinder @ ??
 - Turn on Chocovison Revolation setting: dark, temper 2
 - Add chocolate, Temper AWAY!!!
 - Add 'seed', minimumm 5% of total weight
