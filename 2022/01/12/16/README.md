@@ -5,11 +5,11 @@
 
 | Item | Quantity | UoM  |
 | :---     | ---:    | :--- |
-| Cacao Butter   | 0.3   | lb    |
-| Cacao Nibs  | 0.3   | lb    |
+| Cacao Butter   | 0.275   | lb    |
+| Cacao Nibs  | 0.275   | lb    |
 | Cashews   | 0.26  | lb      |
-| Coconut Nectar   | 0.12 | lb      |
-| Organic Cinnamon   | 0.01 (0.16 oz) | lb      |
+| Coconut Nectar   | 0.17 | lb      |
+| Organic Cardamon   | 0.01 (0.16 oz) | lb      |
 | Organic Rose Powder   | 0.01 (0.16 oz) | lb      |
 
 #### Raw Materials
@@ -17,5 +17,5 @@
 - [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
 - [ ] Organic Cashews
 - [ ] Organic Coconut Nectar [[2](/vendors)]
-- [ ] Organic Rooibos
-- [ ] Organic Cinnamon
+- [ ] Organic Cardamon
+- [ ] Organic Rose Powder
