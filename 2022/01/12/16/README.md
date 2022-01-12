@@ -13,7 +13,7 @@
 | Organic Rose Powder   | 0.01 (0.16 oz) | lb      |
 
 #### Raw Materials
-- [ ] Organic Cacao Beans -  Tanzania / Kokoa Kamili Estate [[1](/vendors)]
+- [ ] Organic Cacao Beans
 - [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
 - [ ] Organic Cashews
 - [ ] Organic Coconut Nectar [[2](/vendors)]
