@@ -8,7 +8,7 @@
 | Cacao Butter   | 0.275   | lb    |
 | Cacao Nibs  | 0.275   | lb    |
 | Cashews   | 0.23  | lb      |
-| Coconut Nectar   | 0.20 | lb      |
+| Coconut Nectar   | 0.2 | lb      |
 | Organic Cardamon   | 0.01 (0.16 oz) | lb      |
 | Organic Rose Powder   | 0.01 (0.16 oz) | lb      |
 
