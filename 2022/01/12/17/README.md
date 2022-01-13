@@ -13,9 +13,9 @@
 | Organic Rose Powder  | 0.01 (0.16oz)      | lb      |
 
 #### Raw Materials
-- [ ] Organic Cacao Beans - Brasil / Mucambo Estate [[4](/vendors)]
+- [ ] Organic Cacao Beans 
 - [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
 - [ ] Organic Coconut Blossom Nectar [[2](/vendors)]
-- [ ] Raspery Powder [[3](/vendors)]
+- [ ] Raspery Powder
 - [ ] Organic Cardamon 
 - [ ] Organic Rose Powder
