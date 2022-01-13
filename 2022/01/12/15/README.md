@@ -8,7 +8,7 @@
 | Cacao Nibs  | 0.35    | lb    |
 | Cacao Butter   | 0.35    | lb    |
 | Organic Coconut Nectar     | 0.2      | lb      |
-| Organic Coconut     | 0.08      | lb      |
+| Organic Coconut Flakes   | 0.08      | lb      |
 | Organic Cardamon     | 0.01 (0.16oz)      | lb      |
 | Organic Rose Powder   | 0.01 (0.16oz)      | lb      |
 
@@ -16,6 +16,6 @@
 - [ ] Organic Cacao Beans
 - [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
 - [ ] Organic Coconut Blossom Nectar [[2](/vendors)]
-- [ ] Organic Coconut [[3](/vendors)]
+- [ ] Organic Coconut Flakes [[3](/vendors)]
 - [ ] Organic Cardamon 
 - [ ] Organic Rose Powder
