@@ -13,7 +13,7 @@
 | Organic Rose    | 0.01 (0.16oz)      | lb      |
 
 #### Raw Materials
-- [ ] Organic Cacao Beans - Brasil / Mucambo Estate [[4](/vendors)]
+- [ ] Organic Cacao Beans
 - [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
 - [ ] Organic Coconut Blossom Nectar [[2](/vendors)]
 - [ ] Organic Coconut [[3](/vendors)]
