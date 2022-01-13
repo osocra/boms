@@ -1,7 +1,7 @@
 ## Rose Dark Mylk
 > Flavors: Creamy, Gentle, Nutty
 
-[![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/collections/bars/products/21110916)
+[![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/collections/bars/products/22011216)
 
 | Item | Quantity | UoM  |
 | :---     | ---:    | :--- |
