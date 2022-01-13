@@ -11,7 +11,7 @@
 | Blood Orange Infused Extra Virgin Olive Oil     | 0.04 (0.64 oz)     | lb      |
 
 #### Raw Materials
-- [ ] Organic Cacao Beans -  Brasil / Mucambo [[4](/vendors)]
+- [ ] Organic Cacao Beans
 - [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
 - [ ] Organic Coconut Nectar [[2](/vendors)]
 - [ ] Blood Orange Extra Virgin Olive Oil [[8](/vendors)]
