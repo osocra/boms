@@ -5,9 +5,9 @@
 
 | Item | Quantity | UoM  |
 | :---     | ---:    | :--- |
-| Cacao Butter   | 0.365    | lb    |
-| Organic Cashew     | 0.365      | lb      |
-| Organic Coconut Nectar     | 0.2      | lb      |
+| Cacao Butter   | 0.36    | lb    |
+| Organic Cashew     | 0.36      | lb      |
+| Organic Coconut Nectar     | 0.21      | lb      |
 | Organic Rasperry Powder     | 0.05      | lb      |
 | Organic Cardamon     | 0.01 (0.16oz)      | lb      |
 | Organic Rose Powder  | 0.01 (0.16oz)      | lb      |
