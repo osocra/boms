@@ -3,7 +3,7 @@
 - Reena grinder
 - Mucambo Brasil Beans
 - Add melted cacao butter to grinder, then add nibs 
-- Add sugar, flakes, cardamon, and rose powder
+- Add sugar, flakes, cardamom, and rose powder
 
 ### Tasks
 1. Grind
