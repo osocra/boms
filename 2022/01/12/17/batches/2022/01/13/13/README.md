@@ -3,6 +3,7 @@
 - Reena grinder
 - Mucambo Brasil Beans
 - Grind cashews to a butter, then, add cacao butter, remaining ingredients
+- Coconut nectar added brown color -- add white/clear version next time to get pink from the raspberry 
 
 ### Tasks
 1. Grind
