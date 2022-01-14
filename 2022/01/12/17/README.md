@@ -17,5 +17,5 @@
 - [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
 - [ ] Organic Coconut Blossom Nectar [[2](/vendors)]
 - [ ] Organic Raspberry
-- [ ] Organic Cardamon 
+- [ ] Organic Cardamom 
 - [ ] Organic Rose Powder
