@@ -2,7 +2,8 @@
 - Calcs for batch size of 9.8lb
 - Reena grinder
 - Mucambo Brasil Beans
-- 
+- Add melted cacao butter to grinder, then add nibs 
+- Add sugar, flakes, cardamon, and rose powder
 
 ### Tasks
 1. Grind
