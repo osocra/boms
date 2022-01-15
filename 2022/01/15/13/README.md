@@ -1,19 +1,19 @@
-## Marzipan Bar
-> Tasting notes:
+## White Raspberry Marzipan 
+> Tasting notes: Raspberry, Marzipan
 
 [![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/collections/bars/products/22011513)
 
 | Item | Quantity | UoM  |
 | :---     | ---:    | :--- |
-| Cacao Nibs  | 0.37    | lb    |
-| Cacao Butter   | 0.37    | lb    |
-| Coconut Nectar    | 0.22      | lb      |
-| Almond Flour     | 0.04 (0.64 oz)     | lb      |
+| Cacao Butter   | 0.4    | lb    |
+| Almond Flour     | 0.3      | lb      |
+| Cane Sugar    | 0.25      | lb      |
+| Raspberry Powder    | 0.05      | lb      |
+
 
 #### Raw Materials
-- [ ] Organic Cacao Beans
 - [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
-- [ ] Organic Coconut Nectar [[2](/vendors)]
-- [ ] Organic Almond FLour [[](/vendors)]
-
-#### Pro Tip
+- [ ] Organic Almond Flour 
+- [ ] Organic Cane Sugar [[3](/vendors)]
+- [ ] Organic Coconut Blossom Nectar [[2](/vendors)]
+- [ ] Organic Raspberry Powder
