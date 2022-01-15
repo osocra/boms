@@ -5,12 +5,12 @@
 
 | Item | Quantity | UoM  |
 | :---     | ---:    | :--- |
-| Organic Coconut Flakes     | 0.36      | lb      |
+| Coconut Flakes     | 0.36      | lb      |
 | Cacao Butter   | 0.36    | lb    |
-| Organic Cane Sugar    | 0.21      | lb      |
-| Organic Raspberry     | 0.05      | lb      |
-| Organic Cardamom     | 0.01 (0.16oz)      | lb      |
-| Organic Rose Powder  | 0.01 (0.16oz)      | lb      |
+| Cane Sugar    | 0.21      | lb      |
+| Raspberry Powder    | 0.05      | lb      |
+| Cardamom     | 0.01 (0.16oz)      | lb      |
+| Rose Powder  | 0.01 (0.16oz)      | lb      |
 
 #### Raw Materials
 - [ ] Organic Cacao Beans 
