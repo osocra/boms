@@ -9,6 +9,7 @@
 | Almond Flour     | 0.3      | lb      |
 | Cane Sugar    | 0.25      | lb      |
 | Raspberry Powder    | 0.05      | lb      |
+| Almomd extract    | 0.00625 (0.1oz)    | lb      |
 
 
 #### Raw Materials
