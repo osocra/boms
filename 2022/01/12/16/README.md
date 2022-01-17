@@ -10,7 +10,7 @@
 | Cashews   | 0.23  | lb      |
 | Coconut Nectar   | 0.2 | lb      |
 | Organic Cardamom   | 0.01 (0.16 oz) | lb      |
-| Organic Rose Powder   | 0.01 (0.16 oz) | lb      |
+| Organic Rose Petals   | 0.01 (0.16 oz) | lb      |
 
 #### Raw Materials
 - [ ] Organic Cacao Beans
