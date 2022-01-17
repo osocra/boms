@@ -16,5 +16,4 @@
 - [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
 - [ ] Organic Almond Flour 
 - [ ] Organic Cane Sugar [[3](/vendors)]
-- [ ] Organic Coconut Blossom Nectar [[2](/vendors)]
 - [ ] Organic Raspberry Powder
