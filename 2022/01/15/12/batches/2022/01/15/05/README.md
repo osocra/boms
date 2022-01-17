@@ -2,7 +2,7 @@
 
 ### Laboratory Observations
 - Calcs for batch size of 9.5lb
-- Reena grinder
+- Reena Joseph
 - Mucambo Brasil Beans
 - Grind cashews to a butter, then, add cacao butter, remaining ingredients
 
