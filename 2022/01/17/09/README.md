@@ -17,4 +17,4 @@
 - [ ] Organic Almond Flour 
 - [ ] Organic Cane Sugar [[3](/vendors)]
 - [ ] Organic Blueberry Powder
-- [ ] | Almond extract
+- [ ] Almond extract
