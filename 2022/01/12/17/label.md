@@ -1,5 +1,5 @@
 ## Cacao Percentage
-36%
+> 36%
 
 ## Free Of
 - Dairy
@@ -7,13 +7,13 @@
 - Soy
 
 ## Blurb
-hello blurb
+> hello blurb
 
 ## Ingredients
-hello ingredients
+> hello ingredients
 
 ## Barcode
-22011217
+> 22011217
 
 ## Nutrition Facts
-hello Nutrition Facts
+> hello Nutrition Facts
