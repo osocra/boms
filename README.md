@@ -20,3 +20,15 @@ Support our project and try our recipes at [osocra.com](https://osocra.com)
 | Cashew    | Almonds    | Coconut   | Olive Oil  | Ghee    |
 | :---      | :---       | :---      | :---       | :---    |
 | Crème     | Marzipan   | Coco      | EVOO       | Ghee    |
+
+### Infusions:
+> Raspberry, Mango, Blueberry, Rooibos, Turmeric
+
+### Inclusions:
+> Pistachio, Cashew, Persimmon
+
+### Fillings:
+> Marmalade
+
+### Sweetener:
+> Coconut Nectar, Cane Sugar, Maple Sugar
