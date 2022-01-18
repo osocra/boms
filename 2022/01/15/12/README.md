@@ -1,7 +1,7 @@
 ## White Coco Raspberry
 > Tasting notes: Coconut, Raspberry
 
-[![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/collections/bars/products/22011512)
+[![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/products/22011512)
 
 | Item | Quantity | UoM  |
 | :---     | ---:    | :--- |
