@@ -27,7 +27,7 @@ Support our project and try our recipes at [osocra.com](https://osocra.com)
 ### Inclusions:
 > Pistachio, Cashew, Persimmon
 
-### Fillings:
+### Fillings (Truffle):
 > Marmalade
 
 ### Sweetener:
