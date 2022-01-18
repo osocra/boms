@@ -1,4 +1,4 @@
-## Rose Dark Mylk Crème
+## Dark Mylk Rose Crème
 > Flavors: Creamy, Gentle, Nutty
 
 [![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/collections/bars/products/22011216)
