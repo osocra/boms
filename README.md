@@ -8,7 +8,7 @@ Click on a date above to browse by date to get complete recipes, processes, vend
 Support our project and try our recipes at [osocra.com](https://osocra.com)
 
 ## Naming Convention:
-> Example: Dark Mylk Crème Rooibos Persimmon Truffle Marmalade
+> Example: Mylk Crème Rooibos Persimmon Truffle Marmalade
 
 ### Type:
 
