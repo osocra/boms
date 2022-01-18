@@ -1,4 +1,4 @@
-## White Mylk Rose Crème
+## White Crème Rose
 > Tasting notes:
 
 [![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/collections/bars/products/22011217)
