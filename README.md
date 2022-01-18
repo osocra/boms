@@ -12,5 +12,11 @@ Support our project and try our recipes at [osocra.com](https://osocra.com)
 ### Type:
 
 | White    | Mylk    | Dark Mylk | Dark   |
-| :---     | :---    |:---       |:---    |
+| :---     | :---    | :---      | :---   |
 | No Nibs  | <55%    |>55%       |>70%    |
+
+### Base:
+
+| Cashew    | Almonds    | Coconut   | Olive Oil  | Ghee    |
+| :---      | :---       | :---      | :---       | :---    |
+| Crème     | Marzipan   | Coco      | EVOO       | Ghee    |
