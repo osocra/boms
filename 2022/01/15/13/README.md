@@ -8,7 +8,7 @@
 | Cacao Butter   | 0.4    | lb    |
 | Almonds     | 0.3      | lb      |
 | Cane Sugar    | 0.25      | lb      |
-| Raspberries    | 0.04375 (0.7.oz)      | lb      |
+| Raspberry Powder    | 0.04375 (0.7.oz)      | lb      |
 | Almond extract    | 0.00625 (0.1oz)    | lb      |
 
 
@@ -17,3 +17,4 @@
 - [ ] Organic Almond Flour 
 - [ ] Organic Cane Sugar [[3](/vendors)]
 - [ ] Organic Raspberry Powder
+- [ ] Organic Almond Extract
