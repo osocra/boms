@@ -8,7 +8,7 @@ Click on a date above to browse by date to get complete recipes, processes, vend
 Support our project and try our recipes at [osocra.com](https://osocra.com)
 
 ## Naming Convention:
-> Start from the top to bottom. A simple example is "Dark Equador" while a more complex example is "Mylk Crème Rooibos Persimmon Truffle Marmalade"
+> Start from the top to bottom. A simple example with only 71% Cacao from Equador is "Dark Equador". A more complex example is "Mylk Crème Rooibos Persimmon Truffle Marmalade"
 
 ### Type:
 
