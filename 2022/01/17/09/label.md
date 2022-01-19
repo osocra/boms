@@ -7,7 +7,8 @@
 - Soy
 
 ## Blurb
-> Outrageously tart blueberries and lucisous pockets of white chocolate
+> ***Floriography*** "Language of flowers"
+> Victorian era was a period of extreme social inequality. Floriography allowed people to convey complex, secret feelings that would otherwise be impolite to say aloud in such a conservative time.
 
 ## Ingredients
 > Cacao Butter, Almond Flour, Cane Sugar, Blueberry Powder, Almond Extract
