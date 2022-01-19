@@ -12,7 +12,7 @@
 > Grace, gentleness, joy and happiness
 
 ## Ingredients
-> Cacao (Nibs, Butter), Coconut (Nectar, Flakes), Cardamom, Rose Petals
+> Cacao, Coconut, Cardamom, Rose Petal
 
 ## Barcode
 > 22011215
