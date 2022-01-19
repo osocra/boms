@@ -7,13 +7,13 @@
 | :---     | ---:    | :--- |
 | Cacao Nibs  | 0.35    | lb    |
 | Cacao Butter   | 0.35    | lb    |
-| Organic Coconut Nectar    | 0.2      | lb      |
-| Organic Persimmons    | 0.095 (1.52 oz)    | lb      |
+| Coconut Blossom Nectar    | 0.2      | lb      |
+| Persimmons    | 0.095 (1.52 oz)    | lb      |
 | Pumpkin Spice     | 0.005 (0.08 oz)    | lb      |
 
 #### Raw Materials
 - [ ] Organic Cacao Beans -  Brasil / Mucambo Estate [[4](/vendors)]
 - [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
-- [ ] Organic Coconut Nectar [[2](/vendors)]
+- [ ] Organic Coconut Blossom Nectar [[2](/vendors)]
 - [ ] Organic Dried Persimmons
 - [ ] Organic Pumpkin Spice 
