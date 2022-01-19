@@ -12,7 +12,7 @@
 > Gentle and obedient; carefree yet fruitful. Outrageously rasp with luscious buckets of white chocolate.
 
 ## Ingredients
-> Cacao Butter, Coconut Flakes, Cane Sugar, Raspberries
+> Cacao Butter, Coconut, Cane Sugar, Raspberry
 
 ## Barcode
 > 22011512
