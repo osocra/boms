@@ -35,4 +35,4 @@ Support our project and try our recipes at [osocra.com](https://osocra.com)
 > Coconut Nectar, Cane Sugar, Maple Sugar
 
 ### Origin:
-> Equador, Vietnam, India
+> India, Trinidad, Brasil, Dominican Republic, Tanzania, Vietnam, Equador, Peru
