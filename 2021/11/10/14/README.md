@@ -7,7 +7,7 @@
 | :---     | ---:    | :--- |
 | Cacao Nibs  | 0.05   | lb    |
 | Cacao Butter   | 0.55   | lb    |
-| Cashew   | 0.38  | lb      |
+| Cashews   | 0.38  | lb      |
 | Rooibos   | 0.01 (0.16 oz) | lb      |
 | Cloves   | 0.01 (0.16 oz) | lb      |
 | Cinnamon   | 0.01 (0.16 oz) | lb      |
@@ -19,7 +19,7 @@
 #### Raw Materials
 - [ ] Organic Cacao Beans
 - [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
-- [ ] Organic Cashew [[2](/vendors)]
+- [ ] Organic Cashews 
 - [ ] Organic Rooibos
 - [ ] Organic Cloves
 - [ ] Organic Cinnamon
