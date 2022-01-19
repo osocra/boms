@@ -8,7 +8,7 @@
 | Cacao Butter   | 0.38   | lb    |
 | Cacao Nibs  | 0.14   | lb    |
 | Cashews   | 0.26  | lb      |
-| Coconut Nectar   | 0.20 | lb      |
+| Coconut Blossom Nectar   | 0.20 | lb      |
 | Rooibos   | 0.01 (0.16 oz) | lb      |
 | Cinnamon   | 0.01 (0.16 oz) | lb      |
 
@@ -16,6 +16,6 @@
 - [ ] Organic Cacao Beans -  Tanzania / Kokoa Kamili Estate [[1](/vendors)]
 - [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
 - [ ] Organic Cashews
-- [ ] Organic Coconut Nectar [[2](/vendors)]
+- [ ] Organic Coconut Blossom Nectar [[2](/vendors)]
 - [ ] Organic Rooibos
 - [ ] Organic Cinnamon
