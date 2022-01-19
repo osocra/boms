@@ -14,7 +14,7 @@ Support our project and try our recipes at [osocra.com](https://osocra.com)
 
 | White    | Mylk    | Dark Mylk | Dark   |
 | :---     | :---    | :---      | :---   |
-| No Nibs  | <55%    |>55%       |>70%    |
+| No Nibs  | < 55%   |> 55%      |> 70%   |
 
 ### Base:
 
