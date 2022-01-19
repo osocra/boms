@@ -7,10 +7,10 @@
 - Soy
 
 ## Blurb
-> hello blurb
+> Tropical mango and lucisous pockets of white chocolate
 
 ## Ingredients
-> hello ingredients
+> Cacao Butter, Cane Sugar, Coconut Flakes, Mango Powder
 
 ## Barcode
 > 22011708
