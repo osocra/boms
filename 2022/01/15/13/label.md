@@ -12,7 +12,7 @@
 > Kind and patient; careful yet fruitful. Outrageously rasp with lucisous pockets of white chocolate
 
 ## Ingredients
-> Cacao, Almonds, Cane Sugar, Raspberries
+> Cacao, Almond, Cane Sugar, Raspberry
 
 ## Barcode
 > 22011513
