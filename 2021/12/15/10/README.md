@@ -7,8 +7,8 @@
 | :---     | ---:    | :--- |
 | Cacao Nibs  | 0.35    | lb    |
 | Cacao Butter   | 0.35    | lb    |
-| Organic Coconut Nectar    | 0.20      | lb      |
-| Extra Virgin Olive Oil     | 0.10      | lb      |
+| Coconut Blossom Nectar    | 0.20      | lb      |
+| EVOO    | 0.10      | lb      |
 
 #### Raw Materials
 - [ ] Organic Cacao Beans -  Brasil / Mucambo [[4](/vendors)]
