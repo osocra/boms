@@ -8,7 +8,7 @@
 | Cacao Nibs  | 0.35    | lb    |
 | Cacao Butter   | 0.35    | lb    |
 | Organic Coconut Nectar    | 0.20      | lb      |
-| Organic Coconut     | 0.10      | lb      |
+| Organic Coconut Flakes    | 0.10      | lb      |
 
 #### Raw Materials
 - [ ] Organic Cacao Beans -  Peru / Ucayali [[1](/vendors)]
