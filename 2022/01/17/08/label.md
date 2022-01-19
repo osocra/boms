@@ -12,7 +12,7 @@
 > Outrageously tropical mango and lucisous pockets of white chocolate
 
 ## Ingredients
-> Cacao Butter, Cane Sugar, Coconut Flakes, Mango Powder
+> Cacao Butter, Coconut, Cane Sugar, Mango
 
 ## Barcode
 > 22011708
