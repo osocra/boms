@@ -7,10 +7,10 @@
 | :---     | ---:    | :--- |
 | Cacao Nibs  | 0.35    | lb    |
 | Cacao Butter   | 0.35    | lb    |
-| Organic Coconut Nectar     | 0.2      | lb      |
-| Organic Coconut Flakes   | 0.08      | lb      |
+| Coconut Blossom Nectar     | 0.2      | lb      |
+| Coconut Flakes   | 0.08      | lb      |
 | Organic Cardamom     | 0.01 (0.16oz)      | lb      |
-| Organic Rose Powder   | 0.01 (0.16oz)      | lb      |
+| Organic Rose Petals   | 0.01 (0.16oz)      | lb      |
 
 #### Raw Materials
 - [ ] Organic Cacao Beans
