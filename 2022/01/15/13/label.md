@@ -7,10 +7,10 @@
 - Soy
 
 ## Blurb
-> hello blurb
+> Outrageously tart raspberries and lucisous pockets of white chocolate
 
 ## Ingredients
-> hello ingredients
+> Cacao Butter, Alomnd Flour, Cane Sugar, Raspberry powderl Almond Extract
 
 ## Barcode
 > 22011513
