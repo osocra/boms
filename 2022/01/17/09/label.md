@@ -7,7 +7,7 @@
 - Soy
 
 ## Blurb
-> Tart blueberries and lucisous pockets of white chocolate
+> Outrageously tart blueberries and lucisous pockets of white chocolate
 
 ## Ingredients
 > Cacao Butter, Almond Flour, Cane Sugar, Blueberry Powder, Almond Extract
