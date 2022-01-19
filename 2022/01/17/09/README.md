@@ -8,7 +8,7 @@
 | Cacao Butter   | 0.4    | lb    |
 | Almonds     | 0.3      | lb      |
 | Cane Sugar    | 0.25      | lb      |
-| Blueberries    | 0.04375 (0.7.oz)      | lb      |
+| Blueberry Powder    | 0.04375 (0.7.oz)      | lb      |
 | Almond extract    | 0.00625 (0.1oz)    | lb      |
 
 
