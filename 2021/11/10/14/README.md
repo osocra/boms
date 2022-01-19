@@ -1,4 +1,4 @@
-## Rooibos Chai Latte
+## Dark Mylk Rooibos Chai Latte
 > Flavors: Warming Spices, Mellow Earthy tones
 
 [![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/collections/bars/products/21111014)
@@ -17,7 +17,7 @@
 | Cardamom   | 0.01 (0.16 oz) | lb      |
 
 #### Raw Materials
-- [ ] Organic Cacao Beans -  Tanzania / Kokoa Kamili Estate [[1](/vendors)]
+- [ ] Organic Cacao Beans
 - [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
 - [ ] Organic Cashew [[2](/vendors)]
 - [ ] Organic Rooibos
