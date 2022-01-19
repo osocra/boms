@@ -7,7 +7,7 @@
 - Soy
 
 ## Blurb
-> Floriography: Kind and patient; careful yet fruitful. Outrageously tart raspberries and lucisous pockets of white chocolate
+> Floriography: Kind and patient; careful yet fruitful. Outrageously rasp with lucisous pockets of white chocolate
 
 ## Ingredients
 > Cacao Butter, Almonds, Cane Sugar, Raspberries
