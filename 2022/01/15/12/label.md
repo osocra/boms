@@ -7,10 +7,10 @@
 - Soy
 
 ## Blurb
-> hello blurb
+> Outrageously tart raspberries and luscions buckets of white chocolate
 
 ## Ingredients
-> hello ingredients
+> Caco Butter, Coconut Flakes, Cane Sugar, Raspberry flour
 
 ## Barcode
 > 22011512
