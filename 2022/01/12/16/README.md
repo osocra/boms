@@ -13,8 +13,8 @@
 | Organic Rose Petals   | 0.01 (0.16 oz) | lb      |
 
 #### Raw Materials
-- [ ] Organic Cacao Beans
 - [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
+- [ ] Organic Cacao Nibs
 - [ ] Organic Cashews
 - [ ] Organic Coconut Nectar [[2](/vendors)]
 - [ ] Organic Cardamom
