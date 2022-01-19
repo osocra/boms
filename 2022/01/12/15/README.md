@@ -18,4 +18,4 @@
 - [ ] Organic Coconut Blossom Nectar [[2](/vendors)]
 - [ ] Organic Coconut Flakes [[3](/vendors)]
 - [ ] Organic Cardamom 
-- [ ] Organic Rose Powder
+- [ ] Organic Rose Petals
