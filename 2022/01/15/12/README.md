@@ -8,11 +8,11 @@
 | Cacao Butter   | 0.4    | lb    |
 | Coconut Flakes     | 0.3      | lb      |
 | Cane Sugar    | 0.25      | lb      |
-| Raspberry Powder    | 0.05      | lb      |
+| Raspberries    | 0.05      | lb      |
 
 
 #### Raw Materials
 - [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
 - [ ] Organic Coconut Flakes [[3](/vendors)]
-- [ ] Organic Cane Sugar [[3](/vendors)]
+- [ ] Organic Cane Sugar
 - [ ] Organic Raspberry Powder
