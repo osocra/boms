@@ -8,14 +8,14 @@
 | Cashews     | 0.36      | lb      |
 | Cacao Butter   | 0.36    | lb    |
 | Coconut Blossom Nectar     | 0.21      | lb      |
-| Raspberries     | 0.05      | lb      |
+| Raspberry Powder     | 0.05      | lb      |
 | Cardamom     | 0.01 (0.16oz)      | lb      |
-| Rose Petals  | 0.01 (0.16oz)      | lb      |
+| Rose Powder  | 0.01 (0.16oz)      | lb      |
 
 #### Raw Materials
 - [ ] Organic Cashews 
 - [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
 - [ ] Organic Coconut Blossom Nectar [[2](/vendors)]
-- [ ] Organic Raspberries
+- [ ] Organic Raspberry Powder
 - [ ] Organic Cardamom 
-- [ ] Organic Rose Poetals
+- [ ] Organic Rose Powder
