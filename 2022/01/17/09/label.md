@@ -7,8 +7,7 @@
 - Soy
 
 ## Blurb
-> Tart blueberries combined with hit of white chocolate. Nature’s candy. Enjoy.
-> Be outrageous. We blended a treasured early-harvest Mediterranean olive oil with our proprietary 72% cacao dark chocolate and luscious pockets of Bulgarian rose water infused in a raspberry rose gelée. 
+> Tart blueberries and lucisous pockets of white chocolate
 
 ## Ingredients
 > Cacao Butter, Almond Flour, Cane Sugar, Blueberry Powder, Almond Extract
