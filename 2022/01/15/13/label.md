@@ -7,7 +7,7 @@
 - Soy
 
 ## Blurb
-> Outrageously tart raspberries and lucisous pockets of white chocolate
+> Floriography: Kind and patient; careful yet fruitful. Outrageously tart raspberries and lucisous pockets of white chocolate
 
 ## Ingredients
 > Cacao Butter, Alomnd Flour, Cane Sugar, Raspberry powderl Almond Extract
