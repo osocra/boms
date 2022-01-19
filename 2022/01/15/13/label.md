@@ -10,7 +10,7 @@
 > Floriography: Kind and patient; careful yet fruitful. Outrageously tart raspberries and lucisous pockets of white chocolate
 
 ## Ingredients
-> Cacao Butter, Alomnd Flour, Cane Sugar, Raspberry powderl Almond Extract
+> Cacao Butter, Almonds, Cane Sugar, Raspberries
 
 ## Barcode
 > 22011513
