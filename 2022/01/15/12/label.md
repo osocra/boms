@@ -7,7 +7,7 @@
 - Soy
 
 ## Blurb
-> Outrageously tart raspberries and luscions buckets of white chocolate
+> Floriography: Gentle and obedient; carefree yet fruitful. Outrageously blue with luscious buckets of white chocolate.
 
 ## Ingredients
 > Caco Butter, Coconut Flakes, Cane Sugar, Raspberry flour
