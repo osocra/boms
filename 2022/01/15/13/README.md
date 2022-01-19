@@ -6,9 +6,9 @@
 | Item | Quantity | UoM  |
 | :---     | ---:    | :--- |
 | Cacao Butter   | 0.4    | lb    |
-| Almond Flour     | 0.3      | lb      |
+| Almonds     | 0.3      | lb      |
 | Cane Sugar    | 0.25      | lb      |
-| Raspberry Powder    | 0.04375 (0.7.oz)      | lb      |
+| Raspberries    | 0.04375 (0.7.oz)      | lb      |
 | Almond extract    | 0.00625 (0.1oz)    | lb      |
 
 
