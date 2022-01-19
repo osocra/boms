@@ -1,4 +1,4 @@
-## White Raspberry Marzipan 
+## White Marzipan Raspberry 
 > Tasting notes: Raspberry, Marzipan
 
 [![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/products/22011513)
