@@ -1,5 +1,5 @@
 
-## Pink Salt Cashew
+## Dark Pink Salt Cashew
 > Pink Salt and Cashew, indulge your senses and body
 
 [![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/collections/bars/products/21110108)
