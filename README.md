@@ -20,7 +20,7 @@ Support our project and try our recipes at [osocra.com](https://osocra.com)
 
 | Cashew    | Almonds    | Coconut   | Hazelnut  | Olive Oil  | Ghee    |
 | :---      | :---       | :---      | :---      | :---       | :---    |
-| Crème     | Marzipan   | Coco      | Hazelnut  | EVOO       | Ghee    |
+| Crème     | Marzipan   | Coco      | Avelã     | EVOO       | Ghee    |
 
 ### Infusions:
 > Raspberry, Mango, Blueberry, Rooibos, Turmeric
