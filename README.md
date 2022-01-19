@@ -8,7 +8,7 @@ Click on a date above to browse by date to get complete recipes, processes, vend
 Support our project and try our recipes at [osocra.com](https://osocra.com)
 
 ## Naming Convention:
-> Example: Mylk Crème Rooibos Persimmon Truffle Marmalade
+> Start from the top to bottom. A simple example would be "Dark Equador" while a more comple example would be "Mylk Crème Rooibos Persimmon Truffle Marmalade"
 
 ### Type:
 
@@ -33,3 +33,6 @@ Support our project and try our recipes at [osocra.com](https://osocra.com)
 
 ### Sweetener:
 > Coconut Nectar, Cane Sugar, Maple Sugar
+
+### Origin:
+> Equador, Vietnam, India
