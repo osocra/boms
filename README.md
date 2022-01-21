@@ -13,7 +13,7 @@ Support our project and try our recipes at [osocra.com](https://osocra.com)
 | :---                    | :---    | :---     | :---      | :---     | :---           | :---     | ---:    | :---          |
 |[21052318](2021/05/23/18)| Coconut |          |           |          | Coconut Nectar | India    | Dark    | Coco India    |
 |[21052813](2021/05/28/13)| Coconut |          |           |          | Coconut Nectar | Trinidad | Dark    | Coco Trinidad |
-|[21070415](2021/07/04/15)| Coconut |          |           |          | Coconut Nectar | Trinidad | Dark    | Coco Brasil   |
+|[21070415](2021/07/04/15)| Coconut |          |           |          | Coconut Nectar | Brasil   | Dark    | Coco Brasil   |
 
 
 ## Naming Convention:
