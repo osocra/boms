@@ -9,9 +9,12 @@ Support our project and try our recipes at [osocra.com](https://osocra.com)
 
 # BOMs for sale
 
-|                         | Base    | Infusion | Inclusion | Filling  | Sweetener | Origin   | Cacao   | Name    |
-| :---                    | :---    | :---     | :---      | :---     | :---      | :---     | ---:    | :---    |
-|[21052318](2021/05/23/18)| Coconut |          |           |          | Coconut Nectar | India | Dark  | Coco India |
+|                         | Base    | Infusion | Inclusion | Filling  | Sweetener      | Origin   | Cacao   | Name          |
+| :---                    | :---    | :---     | :---      | :---     | :---           | :---     | ---:    | :---          |
+|[21052318](2021/05/23/18)| Coconut |          |           |          | Coconut Nectar | India    | Dark    | Coco India    |
+|[21052813](2021/05/28/13)| Coconut |          |           |          | Coconut Nectar | Trinidad | Dark    | Coco Trinidad |
+|[21070415](2021/07/04/15)| Coconut |          |           |          | Coconut Nectar | Trinidad | Dark    | Coco Brasil   |
+
 
 ## Naming Convention:
 > Start from the top to bottom. A simple example with only 71% Cacao from Equador is "Dark Equador". A more complex example is "Mylk Crème Rooibos Persimmon Truffle Marmalade"
