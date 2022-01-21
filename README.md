@@ -52,13 +52,13 @@ Support our project and try our recipes at [osocra.com](https://osocra.com)
 | Cashew    | Almonds    | Coconut   | Hazelnut  | Olive Oil  | Ghee    |
 
 ### Infusion:
-> Raspberry, Mango, Blueberry, Rooibos, Turmeric
+> Raspberry, Mango, Blueberry, Rooibos, Turmeric, Cardamom, Blood Orange, Pumpkin Spice, Pink Salt, Turmeric
 
 ### Inclusion:
 > Pistachio, Cashew, Persimmon
 
 ### Filling (Truffle):
-> Marmalade
+> Marmalade, Marzipan
 
 ### Sweetener:
 > Coconut Nectar, Cane Sugar, Maple Sugar
