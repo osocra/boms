@@ -3,7 +3,7 @@
  
 Osocra's mission is to make available the best Chocolate recipes to everyone, everywhere in the world, free and open source forever.
 
-Click on a date below to browse by date to get complete recipes, processes, vendor information as well as information on equipment used and operating instructions. 
+Click on a BOM below to get complete recipes, processes, vendor information as well as information on equipment used and operating instructions. 
 
 Support our project and try our recipes at [osocra.com](https://osocra.com)
 
@@ -14,7 +14,7 @@ Support our project and try our recipes at [osocra.com](https://osocra.com)
 |[21052318](2021/05/23/18)| Coconut   |               |           |          | Coconut Nectar | India    | Dark      | Coco India    |
 |[21052813](2021/05/28/13)| Coconut   |               |           |          | Coconut Nectar | Trinidad | Dark      | Coco Trinidad |
 |[21070415](2021/07/04/15)| Coconut   |               |           |          | Coconut Nectar | Brasil   | Dark      | Coco Brasil   |
-|[21071614](2021/07/16/14)| Coconut   |               |           |          | Coconut Nectar | Dominican Republic    | Dark      | Coco Dominican Republic |
+|[21071614](2021/07/16/14)| Coconut   |               |           |          | Coconut Nectar | Dominican Republic   | Dark      | Coco Dominican Republic |
 |[21072109](2021/07/21/09)| Coconut   |               |           |          | Coconut Nectar | Tanzania | Dark      | Coco Tanzania |
 |[21072610](2021/07/26/10)| Coconut   |               |           |          | Coconut Nectar | Vietnam  | Dark      | Coco Vietnam  |
 |[21072809](2021/07/28/09)| Coconut   |               |           |          | Coconut Nectar | Ecuador  | Dark      | Coco Ecuador  |
@@ -28,6 +28,8 @@ Support our project and try our recipes at [osocra.com](https://osocra.com)
 |[21112911](2021/11/29/11)| Coconut   |               |           | Marzipan | Coconut Nectar | Varies   | Dark      | Coco Truffle Marzipan |
 |[21121510](2021/12/15/10)| Olive Oil |               |           |          | Coconut Nectar | Varies   | Dark      | EVOO         |
 |[21121816](2021/12/18/16)| Olive Oil | Blood Orange  |           |          | Coconut Nectar | Varies   | Dark      | EVOO Blood Orange |
+|[22011215](2022/01/12/15)| Coconut   | Rose, Cardamom|           |          | Coconut Nectar | Varies   | Dark      | Coco Rose     |
+|[22011216](2022/01/12/16)| Cashew    | Rose, Cardamom|           |          | Coconut Nectar | Varies   | Dark Mylk | Crème Rose    |
 
 ## Naming Convention:
 > Start from the top to bottom. A simple example with only 71% Cacao from Equador is "Dark Equador". A more complex example is "Mylk Crème Rooibos Persimmon Truffle Marmalade"
