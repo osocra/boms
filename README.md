@@ -31,7 +31,7 @@ Support our project and try our recipes at [osocra.com](https://osocra.com)
 |[22011215](2022/01/12/15)| Coconut   | Rose, Cardamom|           |          | Coconut Nectar | Varies   | Dark      | Coco Rose     |
 |[22011216](2022/01/12/16)| Cashew    | Rose, Cardamom|           |          | Coconut Nectar | Varies   | Dark Mylk | Crème Rose    |
 |[22011217](2022/01/12/17)| Cashew    | Raspberry, Rose, Cardamom ||         | Coconut Nectar | Varies   | White     | Crème Rasberry Rose |
-|[22011512](2022/01/15/12)| Coconut   | Raspberry     |           |          | Coconut Nectar | Varies   | White     | Coco Rasberry |
+|[22011512](2022/01/15/12)| Coconut   | Raspberry     |           |          | Cane Sugar     | Varies   | White     | Coco Rasberry |
 
 ## Naming Convention:
 > Start from the top to bottom. A simple example with only 71% Cacao from Equador is "Dark Equador". A more complex example is "Mylk Crème Rooibos Persimmon Truffle Marmalade"
