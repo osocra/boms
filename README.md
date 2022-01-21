@@ -18,6 +18,7 @@ Support our project and try our recipes at [osocra.com](https://osocra.com)
 |[21072109](2021/07/21/09)| Coconut |          |           |          | Coconut Nectar | Brasil   | Dark    | Coco Tanzania |
 |[21072610](2021/07/26/10)| Coconut |          |           |          | Coconut Nectar | Brasil   | Dark    | Coco Vietnam  |
 |[21072809](2021/07/28/09)| Coconut |          |           |          | Coconut Nectar | Brasil   | Dark    | Coco Ecuador  |
+|[21073013](2021/07/30/13)| Coconut |          |           |          | Coconut Nectar | Brasil   | Dark    | Coco Peru     |
 
 ## Naming Convention:
 > Start from the top to bottom. A simple example with only 71% Cacao from Equador is "Dark Equador". A more complex example is "Mylk Crème Rooibos Persimmon Truffle Marmalade"
