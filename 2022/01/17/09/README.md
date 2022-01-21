@@ -1,7 +1,7 @@
 ## White Marzipan Blueberry 
 > Tasting notes: Blueberry, Marzipan
 
-[![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/collections/bars/products/22011513)
+[![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/products/22011513)
 
 | Item | Quantity | UoM  |
 | :---     | ---:    | :--- |
