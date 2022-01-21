@@ -8,9 +8,7 @@
 | Cacao Nibs  | 0.3   | lb    |
 | Cacao Butter   | 0.3   | lb    |
 | Coconut Blossom Nectar     | 0.2      | lb      |
-| Coconut Flakes     | 0.1      | lb      |
-| Almonds    | 0.1      | lb      |
-
+| Coconut Flakes     | 0.2      | lb      |
 
 
 #### Raw Materials
