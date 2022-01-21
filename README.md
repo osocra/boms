@@ -7,10 +7,17 @@ Click on a date above to browse by date to get complete recipes, processes, vend
 
 Support our project and try our recipes at [osocra.com](https://osocra.com)
 
+# BOMs for sale
+
+|          | Base    | Infusion | Inclusion | Filling  | Sweetener | Origin   | Cacao   | Name    |
+| :---     | :---    | :---     | :---      | :---     | :---      | :---     | ---:    | :---    |   
+| [21052318](/tree/main/2021/05/23/18) | Coconut |          |           |          | Coconut Nectar | India | Dark  | Coco India |
+
+
 ## Naming Convention:
 > Start from the top to bottom. A simple example with only 71% Cacao from Equador is "Dark Equador". A more complex example is "Mylk Crème Rooibos Persimmon Truffle Marmalade"
 
-### Type:
+### Cacao:
 
 | White    | Mylk    | Dark Mylk | Dark   |
 | :---     | :---    | :---      | :---   |
@@ -22,13 +29,13 @@ Support our project and try our recipes at [osocra.com](https://osocra.com)
 | :---      | :---       | :---      | :---      | :---       | :---    |
 | Cashew    | Almonds    | Coconut   | Hazelnut  | Olive Oil  | Ghee    |
 
-### Infusions:
+### Infusion:
 > Raspberry, Mango, Blueberry, Rooibos, Turmeric
 
-### Inclusions:
+### Inclusion:
 > Pistachio, Cashew, Persimmon
 
-### Fillings (Truffle):
+### Filling (Truffle):
 > Marmalade
 
 ### Sweetener:
