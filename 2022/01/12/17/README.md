@@ -1,7 +1,7 @@
 ## White Crème Raspberry Rose
 > Tasting notes:
 
-[![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/collections/bars/products/22011217)
+[![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/products/22011217)
 
 | Item | Quantity | UoM  |
 | :---     | ---:    | :--- |
