@@ -22,6 +22,7 @@ Support our project and try our recipes at [osocra.com](https://osocra.com)
 |[21102514](2021/10/25/14)| Coconut | Pumpkin Spice | Persimmon |          | Coconut Nectar | Varies   | Dark    | Pumpkin Spice Persimmon |
 |[21110110](2021/11/01/10)| Coconut | Pink Salt     | Pistachio |          | Coconut Nectar | Varies   | Dark    | Pink Salt Pistachio |
 |[21110111](2021/11/01/11)| Coconut | Turmeric      | Ginger    |          | Coconut Nectar | Varies   | Dark    | Turmeric Ginger |
+|[21110308](2021/11/03/08)| Coconut | Pink Salt     | Cashew    |          | Coconut Nectar | Varies   | Dark    | Pink Salt Cashew |
 
 ## Naming Convention:
 > Start from the top to bottom. A simple example with only 71% Cacao from Equador is "Dark Equador". A more complex example is "Mylk Crème Rooibos Persimmon Truffle Marmalade"
