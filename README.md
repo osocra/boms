@@ -28,6 +28,7 @@ Support our project and try our recipes at [osocra.com](https://osocra.com)
 |[21112911](2021/11/29/11)| Coconut   |               |           | Marzipan | Coconut Nectar | Varies   | Dark      | Coco Truffle Marzipan |
 |[21121510](2021/12/15/10)| Olive Oil |               |           |          | Coconut Nectar | Varies   | Dark      | EVOO         |
 |[21121816](2021/12/18/16)| Olive Oil | Blood Orange  |           |          | Coconut Nectar | Varies   | Dark      | EVOO Blood Orange |
+|[22011215](2022/01/12/15)| Coconut   | Rose, Cardamom|           |          | Coconut Nectar | Varies   | Dark      | Coco Rose     |
 |[22011216](2022/01/12/16)| Cashew    | Rose, Cardamom|           |          | Coconut Nectar | Varies   | Dark Mylk | Crème Rose    |
 
 ## Naming Convention:
