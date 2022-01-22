@@ -1,7 +1,7 @@
 ## Dark EVOO
-> Tasting notes: Citrus, Smooth
+> Tasting notes: Citrus | Spice | Hazel Nut | Brownie
 
-[![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/collections/bars/products/21121510)
+[![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/products/21121510)
 
 | Item | Quantity | UoM  |
 | :---     | ---:    | :--- |
