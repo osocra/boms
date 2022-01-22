@@ -8,9 +8,11 @@
 - Soy
 
 ## Blurb
-> This harvest mixture of pumpkin spice and persimmon fruit harmonizes with the intensity of dark chocolate. Spicy and zesty, warm and sweet, indulge your senses and body.
+> Mocha | Cedar | Tangy
 > 
-> Victorian era was a period of extreme social inequality. Floriography allowed people to convey complex, secret feelings that would otherwise be impolite to say aloud in such a conservative time.
+> Ucayali River Cacao is a central fermentary that works with cocoa farmers along the Ucayali River outside of the Peruvian city of Pucallpa.
+
+
 
 ## Ingredients
 > Cacao, Coconut
