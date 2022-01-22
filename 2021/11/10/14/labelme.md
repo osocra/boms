@@ -12,7 +12,7 @@
 > Victorian era was a period of extreme social inequality. Floriography allowed people to convey complex, secret feelings that would otherwise be impolite to say aloud in such a conservative time.
 
 ## Ingredients
-> Cacao, Cashew, Coconut,
+> Cacao, Cashew, Rooibos, Cloves, Cinnamon, Ginger, Allspice, Nutmeg, Cardamom
 
 ## Barcode
 > 21111014
