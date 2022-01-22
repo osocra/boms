@@ -4,7 +4,6 @@
 ## Free Of
 - Dairy
 - Gluten
-- Nuts
 - Soy
 
 ## Blurb
