@@ -1,7 +1,5 @@
 ## Dark Coco India 
-> Aromatic as raw beans
-
-> Flavor profile: baking chocolate, red currant
+> Flavor profile: Guava | Peanut | Caramel 
 
 [![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/products/21052318)
 
