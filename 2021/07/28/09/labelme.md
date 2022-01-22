@@ -8,9 +8,9 @@
 - Soy
 
 ## Blurb
-> This harvest mixture of pumpkin spice and persimmon fruit harmonizes with the intensity of dark chocolate. Spicy and zesty, warm and sweet, indulge your senses and body.
+> Tasting Notes: Fudgy | Almond | Floral
 > 
-> Victorian era was a period of extreme social inequality. Floriography allowed people to convey complex, secret feelings that would otherwise be impolite to say aloud in such a conservative time.
+> Vicente Norero's 'labor of love'
 
 ## Ingredients
 > Cacao, Coconut
