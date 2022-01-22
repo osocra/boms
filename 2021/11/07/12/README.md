@@ -3,7 +3,7 @@
 > Creamy and ...
 > Free of: Sugar · Dairy · Gluten · Soy
 
-[![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/collections/bars/products/21110712)
+[![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/products/21110712)
 
 | Item | Quantity | UoM  |
 | :---     | ---:    | :--- |
