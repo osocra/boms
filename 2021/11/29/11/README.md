@@ -1,7 +1,7 @@
 ## Dark Truffle Marzipan 
 > Flavors: Marzipan, Brownie, Nutty
 
-[![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/collections/bars/products/21112911)
+[![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/products/21112911)
 
 | Item | Quantity | UoM  |
 | :---     | ---:    | :--- |
