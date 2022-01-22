@@ -1,7 +1,7 @@
 ## Dark Turmeric Ginger
 > Sweet and spicy zing, warm, and peppery, indulge your senses and body
 
-[![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/collections/bars/products/21110111)
+[![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/products/21110111)
 
 | Item | Quantity | UoM  |
 | :---     | ---:    | :--- |
