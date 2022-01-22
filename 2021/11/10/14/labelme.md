@@ -1,19 +1,18 @@
 ## Cacao Percentage
-> 70%
+> 60%
 
 ## Free Of
 - Dairy
 - Gluten
-- Nuts
 - Soy
 
 ## Blurb
-> Flavors of chicory combine with those of spice and sweet nectar. The Osocra Extra Virgin Olive Oil exhibits low acidity and offers secondary notes of hazelnut and brownie, delivered with a smooth-satin mouth feel.
+> This mixture of cashew, rooibos and cinnamon harmonizes with the intensity of dark chocolate. Warming Spices, Mellow Earthy tones, indulge your senses and body. 
 > 
 > Victorian era was a period of extreme social inequality. Floriography allowed people to convey complex, secret feelings that would otherwise be impolite to say aloud in such a conservative time.
 
 ## Ingredients
-> Cacao, Coconut, EVOO Blood Orange
+> Cacao, Cashew, Coconut,
 
 ## Barcode
 > 21111014
