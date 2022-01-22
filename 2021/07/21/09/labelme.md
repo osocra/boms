@@ -8,9 +8,9 @@
 - Soy
 
 ## Blurb
-> Tasting Notes: Raisin| Marzipan| Cocoa
+> Tasting Notes: Cherry | Coffee | Lemon
 > 
-> Dak Nong Province is located in the southwest of Vietnam’s Central Highlands.
+> Kokoa Kamili is situated in the Udzungwa Mountains National Park.
 
 ## Ingredients
 > Cacao, Coconut
