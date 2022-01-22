@@ -1,5 +1,5 @@
 ## Cacao Percentage
-> 60%
+> 70%
 
 ## Free Of
 - Dairy
@@ -7,7 +7,7 @@
 - Soy
 
 ## Blurb
-> This mixture of cacao and cashew truly has No Sugar!  Mild, creamy, and rich texture, indulge your senses and body.
+> This  mixture of pink salt and pistachio harmonizes with the intensity of dark chocolate. Salty and nutty, indulge your senses and body.
 > 
 > Victorian era was a period of extreme social inequality. Floriography allowed people to convey complex, secret feelings that would otherwise be impolite to say aloud in such a conservative time.
 
