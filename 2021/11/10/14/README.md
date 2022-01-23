@@ -1,4 +1,4 @@
-## Dark Mylk Rooibos Chai Latte
+## Dark Mylk Chai Rooibos
 > Flavors: Warming Spices, Mellow Earthy tones
 
 [![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/products/21111014)
