@@ -47,12 +47,12 @@ Support our project and try our recipes at [osocra.com](https://osocra.com)
 
 ### Base:
 
-| Crème     | Marzipan   | Coco      | Avelã     | EVOO       | Ghee    |
+| Crème     | Marzipan   | Coco      | Avelã     | EVOO       | Ghee    | 
 | :---      | :---       | :---      | :---      | :---       | :---    |
 | Cashew    | Almonds    | Coconut   | Hazelnut  | Olive Oil  | Ghee    |
 
 ### Infusion:
-> Raspberry, Mango, Blueberry, Rooibos, Turmeric, Cardamom, Blood Orange, Pumpkin Spice, Pink Salt, Turmeric,Açaí 
+> Raspberry, Mango, Blueberry, Rooibos, Turmeric, Cardamom, Blood Orange, Pumpkin Spice, Pink Salt, Turmeric, Açaí, Maracujá 
 
 ### Inclusion:
 > Pistachio, Cashew, Persimmon
