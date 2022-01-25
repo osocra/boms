@@ -34,7 +34,7 @@ Support our project and try our recipes at [osocra.com](https://osocra.com)
 |[22011512](2022/01/15/12)| Coconut   | Raspberry     |           |          | Cane Sugar     | Varies   | White     | Coco Rasberry |
 |[22011513](2022/01/15/13)| Almond    | Raspberry     |           |          | Cane Sugar     | Varies   | White     | Marzipan Rasberry |
 |[22011708](2022/01/17/08)| Coconut   | Mango         |           |          | Cane Sugar     | Varies   | White     | Coco Mango    |
-|[22011709](2022/01/17/09)| Almond    | Blubeerry     |           |          | Cane Sugar     | Varies   | White     | Marzipan Blueberry |
+|[22011709](2022/01/17/09)| Almond    | Blueberry     |           |          | Cane Sugar     | Varies   | White     | Marzipan Blueberry |
 
 ## Naming Convention:
 > Start from the top to bottom. A simple example with only 71% Cacao from Equador is "Dark Equador". A more complex example is "Mylk Crème Rooibos Persimmon Truffle Marmalade"
