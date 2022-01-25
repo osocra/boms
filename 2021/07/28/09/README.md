@@ -1,4 +1,4 @@
-## Dark Coco Equador
+## Dark Coco Ecuador
 > Tasting notes: fudgy, almond, floral
 
 [![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/products/21072809)
@@ -11,7 +11,7 @@
 | Coconut Flakes     | 0.1      | lb      |
 
 #### Raw Materials
-- [ ] Organic Cacao Beans -  Equador / Camino Verde [[1](/vendors)]
+- [ ] Organic Cacao Beans -  Ecuador / Camino Verde [[1](/vendors)]
 - [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
 - [ ] Organic Coconut Blossom Nectar [[6](/vendors)]
 - [ ] Organic Coconut Flakes [[5](/vendors)]
