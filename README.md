@@ -36,6 +36,7 @@ Support our project and try our recipes at [osocra.com](https://osocra.com)
 |[22011708](2022/01/17/08)| Coconut   | Mango         |           |          | Cane Sugar     | Varies   | White     | Coco Mango    |
 |[22011709](2022/01/17/09)| Almond    | Blueberry     |           |          | Cane Sugar     | Varies   | White     | Marzipan Blueberry |
 |[22012812](2022/01/28/12)| Ghee      | Mango         |           |          | Coconut Sugar  | Varies   | Dark Mylk | Ghee Mango     |
+|[22012813](2022/01/28/13)| Hazelnut  | Banana        |           |          | Coconut Sugar  | Varies   | Mylk      | Avelã Banana     |
 
 ## Naming Convention:
 > Start from the top to bottom. A simple example with only 71% Cacao from Equador is "Dark Equador". A more complex example is "Mylk Crème Rooibos Persimmon Truffle Marmalade"
@@ -53,7 +54,7 @@ Support our project and try our recipes at [osocra.com](https://osocra.com)
 | Cashew    | Almonds    | Coconut   | Hazelnut  | Olive Oil  | Ghee    |
 
 ### Infusion:
-> Raspberry, Mango, Blueberry, Rooibos, Turmeric, Cardamom, Blood Orange, Pumpkin Spice, Pink Salt, Turmeric, Açaí, Maracujá, Espresso Bean, Matcha
+> Raspberry, Mango, Blueberry, Rooibos, Turmeric, Cardamom, Blood Orange, Pumpkin Spice, Pink Salt, Turmeric, Açaí, Maracujá, Espresso Bean, Matcha, Banana
 
 ### Inclusion:
 > Pistachio, Cashew, Persimmon
