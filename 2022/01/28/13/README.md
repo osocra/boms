@@ -7,9 +7,9 @@
 | :---     | ---:    | :--- |
 | Cacao Butter   | 0.275   | lb    |
 | Cacao Nibs  | 0.275   | lb    |
-| Hazelnut   | 0.23  | lb      |
+| Hazelnut   | 0.2  | lb      |
 | Coconut Blossom Nectar   | 0.2 | lb      |
-| Banana Powder   | 0.01 (0.16 oz) | lb      |
+| Banana Powder   | 0.05 (0.8oz)      | lb      |
 
 #### Raw Materials
 - [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
