@@ -30,11 +30,12 @@ Support our project and try our recipes at [osocra.com](https://osocra.com)
 |[21121816](2021/12/18/16)| Olive Oil | Blood Orange  |           |          | Coconut Nectar | Varies   | Dark      | EVOO Blood Orange |
 |[22011215](2022/01/12/15)| Coconut   | Rose, Cardamom|           |          | Coconut Nectar | Varies   | Dark      | Coco Rose     |
 |[22011216](2022/01/12/16)| Cashew    | Rose, Cardamom|           |          | Coconut Nectar | Varies   | Dark Mylk | Crème Rose    |
-|[22011217](2022/01/12/17)| Cashew    | Raspberry, Rose, Cardamom ||         | Coconut Nectar | Varies   | White     | Crème Raspberry Rose |
+|[22011217](2022/01/12/17)| Cashew    | Raspberry, Rose, Cardamom |          | Coconut Nectar | Varies   | White     | Crème Raspberry Rose |
 |[22011512](2022/01/15/12)| Coconut   | Raspberry     |           |          | Cane Sugar     | Varies   | White     | Coco Raspberry |
 |[22011513](2022/01/15/13)| Almond    | Raspberry     |           |          | Cane Sugar     | Varies   | White     | Marzipan Raspberry |
 |[22011708](2022/01/17/08)| Coconut   | Mango         |           |          | Cane Sugar     | Varies   | White     | Coco Mango    |
 |[22011709](2022/01/17/09)| Almond    | Blueberry     |           |          | Cane Sugar     | Varies   | White     | Marzipan Blueberry |
+|[22012812](2022/01/28/12)| Ghee      | Mango         |           |          | Coconut Sugar  | Varies   | Dark Mylk | Ghee Mango     |
 
 ## Naming Convention:
 > Start from the top to bottom. A simple example with only 71% Cacao from Equador is "Dark Equador". A more complex example is "Mylk Crème Rooibos Persimmon Truffle Marmalade"
