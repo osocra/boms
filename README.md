@@ -24,7 +24,7 @@ Support our project and try our recipes at [osocra.com](https://osocra.com)
 |[21110111](2021/11/01/11)|           | Turmeric      | Ginger    |          | Coconut Nectar | Varies   | Dark      | Turmeric Ginger |
 |[21110308](2021/11/03/08)|           | Pink Salt     | Cashew    |          | Coconut Nectar | Varies   | Dark      | Pink Salt Cashew |
 |[21110712](2021/11/07/12)| Cashew    |               |           |          |                | Varies   | Dark      | Crème         |
-|[21110916](2021/11/09/16)| Cashew    | Rooibos, Cinnamon |       |          | Coconut Nectar | Varies   | Dark Mylk | Crème Cinnamon Rooibos |
+|[21110916](2021/11/09/16)| Cashew    | Rooibos, Cinnamon |       |          | Coconut Nectar | Varies   | Mylk      | Crème Cinnamon Rooibos |
 |[21112911](2021/11/29/11)| Coconut   |               |           | Marzipan | Coconut Nectar | Varies   | Dark      | Coco Truffle Marzipan |
 |[21121510](2021/12/15/10)| Olive Oil |               |           |          | Coconut Nectar | Varies   | Dark      | EVOO         |
 |[21121816](2021/12/18/16)| Olive Oil | Blood Orange  |           |          | Coconut Nectar | Varies   | Dark      | EVOO Blood Orange |
