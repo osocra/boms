@@ -2,7 +2,7 @@
 
 ### Laboratory Observations
 - Calcs for batch size of 9.6lb
-- Reena grinder
+- Joseph grinder
 - Mucambo Brasil Beans
 
 ### Tasks
