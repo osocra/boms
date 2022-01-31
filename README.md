@@ -38,6 +38,7 @@ Support our project and try our recipes at [osocra.com](https://osocra.com)
 | Ghee      | Mango         |           |          | Coconut Sugar  | Varies   | Dark Mylk | Ghee Mango                          |[22012812](2022/01/28/12)|
 | Hazelnut  | Banana        |           |          | Coconut Sugar  | Varies   | Mylk      | Avelã Banana                        |[22012813](2022/01/28/13)|
 | Cashew    | Matcha        |           |          | Cane Sugar     | Varies   | White     | Crème Matcha                        |[22012814](2022/01/28/14)|
+| Hazelnut  | Strawberry    |           |          | Coconut Sugar  | Varies   | Mylk      | Avelã Strawberry                    |[22013110](2022/01/31/10)|
 
 ## Naming Convention:
 > Start from the top to bottom. A simple example with only 71% Cacao from Equador is "Dark Equador". A more complex example is "Mylk Crème Rooibos Persimmon Truffle Marmalade"
