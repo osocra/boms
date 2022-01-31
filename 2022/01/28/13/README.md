@@ -1,7 +1,7 @@
 ## Mylk Avelã Banana
 > Flavors: 
 
-[![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/products/22011216)
+[![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/products/22012813)
 
 | Item | Quantity | UoM  |
 | :---     | ---:    | :--- |
