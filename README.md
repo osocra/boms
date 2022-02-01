@@ -62,7 +62,7 @@ Support our project and try our recipes at [osocra.com](https://osocra.com)
 > Pistachio, Cashew, Persimmon
 
 ### Filling (Truffle):
-> Marmalade, Marzipan
+> Marmalade, Marzipan, Ghee
 
 ### Sweetener:
 > Coconut Nectar, Cane Sugar, Maple Sugar
