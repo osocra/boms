@@ -56,7 +56,7 @@ Support our project and try our recipes at [osocra.com](https://osocra.com)
 | Cashew    | Almonds    | Coconut   | Hazelnut  | Olive Oil  | Ghee    |
 
 ### Infusion:
-> Raspberry, Mango, Blueberry, Rooibos, Turmeric, Cardamom, Blood Orange, Pumpkin Spice, Pink Salt, Turmeric, Açaí, Maracujá, Espresso Bean, Matcha, Banana
+> Raspberry, Mango, Blueberry, Rooibos, Turmeric, Cardamom, Blood Orange, Pumpkin Spice, Pink Salt, Turmeric, Açaí, Maracujá, Espresso Bean, Matcha, Banana, Cupuaçu
 
 ### Inclusion:
 > Pistachio, Cashew, Persimmon
