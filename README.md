@@ -9,7 +9,7 @@ Support our project and try our recipes at [osocra.com](https://osocra.com)
 
 # BOMs for sale
 
-| Base      | Infusion      | Inclusion | Filling  | Sweetener      | Origin   | Cacao     | Name                                |                         |
+| Base      | Infusion      | Inclusion | Truffle  | Sweetener      | Origin   | Cacao     | Name                                |                         |
 | :---      | :---          | :---      | :---     | :---           | :---     | ---:      | :---                                | :---                    |
 | Coconut   |               |           |          | Coconut Nectar | India    | Dark      | Coco India                          |[21052318](2021/05/23/18)|
 | Coconut   |               |           |          | Coconut Nectar | Trinidad | Dark      | Coco Trinidad                       |[21052813](2021/05/28/13)|
