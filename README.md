@@ -1,11 +1,11 @@
 # Bill of Materials
 > Per 1 lb of Finished Product
  
-Osocra's mission is to make available the best Chocolate recipes to everyone, everywhere in the world, free and open source forever.
+Osocra's mission is to make available the best Chocolate recipes and processes to everyone, everywhere in the world, free and open source forever.
 
 Click on a BOM below to get complete recipes, processes, vendor information as well as information on equipment used and operating instructions. 
 
-Support our project and try our recipes at [osocra.com](https://osocra.com)
+Support our project and buy our chocolate at [osocra.com](https://osocra.com) -- see what the world's best cacao tastes like and find *your* perfect chocolate.
 
 # BOMs for sale
 
