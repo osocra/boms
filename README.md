@@ -5,7 +5,7 @@ Osocra's mission is to make available the best Chocolate recipes and processes t
 
 Click on a BOM below to get complete recipes, processes, vendor information as well as information on equipment used and operating instructions. 
 
-Support our project and buy our chocolate at [osocra.com](https://osocra.com) -- see what the world's best cacao tastes like and find *your* perfect chocolate.
+Support our project and buy our chocolate at [osocra.com](https://osocra.com) to see what the world's best cacao tastes like. Find *your* perfect chocolate and find out why “xocoatl” has been [called](https://historydaily.org/chocolate-food-of-the-gods) the “food of the gods".
 
 # BOMs for sale
 
