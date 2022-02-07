@@ -7,16 +7,16 @@
 
 ### Ingredients Tracing
 - Cacao Butter
-  - Source: x
-  - Batch# y
+  - Vendor: Meridican Cacao Co
+  - Batch# purchased on 20211108, order# 3644
 - Cashew
-  - Source: x
-  - Batch# y
+  - Vendor: Nugget Market, Novato
+  - Batch# purchased on 2022012814
 - Cane Sugar
-  - Source: x
-  - Batch# y
+  - Vendor: Kirkland Signature
+  - Batch# 21091HU1 15:00
 - Matcha Powder
-  - Source: x
+  - Vendor: x
   - Batch# y
 
 ### Tasks
