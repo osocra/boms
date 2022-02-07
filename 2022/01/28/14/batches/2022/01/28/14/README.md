@@ -5,6 +5,20 @@
 - Joseph grinder
 - Mucambo Brasil Beans
 
+### Ingredients Tracing
+- Cacao Butter
+  - Source: x
+  - Batch# y
+- Cashew
+  - Source: x
+  - Batch# y
+- Cane Sugar
+  - Source: x
+  - Batch# y
+- Matcha Powder
+  - Source: x
+  - Batch# y
+
 ### Tasks
 1. Grind
 2. Temper
