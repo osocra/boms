@@ -8,6 +8,7 @@
 
 ## Blurb
 > Outrageously tropical mango & luscious white chocolate
+
 > ***Floriography*** "Language of flowers"
 > Victorian era was a period of extreme social inequality. Floriography allowed people to convey complex, secret feelings that would otherwise be impolite to say aloud in such a conservative time.
 > Outrageously tropical mango and lucisous pockets of white chocolate
