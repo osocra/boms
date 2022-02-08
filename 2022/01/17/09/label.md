@@ -7,6 +7,7 @@
 - Soy
 
 ## Blurb
+> Fresh summer days; simple, sweet and full of life
 > ***Floriography*** "Language of flowers"
 > Victorian era was a period of extreme social inequality. Floriography allowed people to convey complex, secret feelings that would otherwise be impolite to say aloud in such a conservative time.
 
