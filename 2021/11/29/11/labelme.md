@@ -8,8 +8,8 @@
 - Soy
 
 ## Blurb
-> Flavors of chicory combine with those of spice and sweet nectar. The Osocra Extra Virgin Olive Oil exhibits low acidity and offers secondary notes of hazelnut and brownie, delivered with a smooth-satin mouth feel.
-> 
+> ???
+
 > Victorian era was a period of extreme social inequality. Floriography allowed people to convey complex, secret feelings that would otherwise be impolite to say aloud in such a conservative time.
 
 ## Ingredients
