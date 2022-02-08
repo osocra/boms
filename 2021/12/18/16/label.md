@@ -9,7 +9,9 @@
 
 ## Blurb
 > Ripe Blood Oranges and Tunisian olives form this beautiful (agrumato) or combination of whole, fresh citrus fruits crushed with olives.
+
 > Flavors of chicory, hazelnut and brownie combine with this Amphora Nueva Blood Orange Olive Oil to deliver a smooth-satin mouth feel.
+
 > Victorian era was a period of extreme social inequality. Floriography allowed people to convey complex, secret feelings that would otherwise be impolite to say aloud in such a conservative time.
 
 ## Ingredients
