@@ -13,7 +13,7 @@
 > Ucayali River Cacao is a central fermentary that works with cocoa farmers along the Ucayali River outside of the Peruvian city of Pucallpa.
 
 ## Ingredients
-> Cacao, Coconut Nectar
+> Cacao, Coconut
 
 ## Barcode
 > 21073013
