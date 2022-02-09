@@ -39,6 +39,8 @@ Support our project and buy our chocolate at [osocra.com](https://osocra.com) to
 | Hazelnut  | Banana        |           |          | Coconut Sugar  | Varies   | Mylk      | Avelã Banana                        |[22012813](2022/01/28/13)|
 | Cashew    | Matcha        |           |          | Cane Sugar     | Varies   | White     | Crème Matcha                        |[22012814](2022/01/28/14)|
 | Hazelnut  | Strawberry    |           |          | Coconut Sugar  | Varies   | Mylk      | Avelã Strawberry                    |[22013110](2022/01/31/10)|
+|           |               |           |          | Coconut Sugar  | Tanzania | Dark      |  Dark Tanzania    |[22020915](2022/02/09/15)|
+|           |               |           |          | Coconut Sugar  | Peru | Dark      |  Dark Peru    |[22020916](2022/02/09/16)|
 
 ## Naming Convention:
 > Start from the top to bottom. A simple example with only 71% Cacao from Equador is "Dark Equador". A more complex example is "Mylk Crème Rooibos Persimmon Truffle Marmalade"
