@@ -3,7 +3,7 @@
 
 OSOCRA is **O**pen **SO**urce **CRA**ft chocolate and our mission is to make available the best Chocolate to everyone, everywhere in the world -- our recipes and processes are free and open source forever.
 
-Click on a BOM below to get complete recipes, processes, vendor information as well as information on equipment used and operating instructions. 
+Click on a BOM below to get complete recipes, [processes](/operations), vendor information as well as information on equipment used and operating instructions. 
 
 Support our project and buy our chocolate at [osocra.com](https://osocra.com) to see what the world's best cacao tastes like. Find *your* perfect chocolate and find out why “xocoatl” has been [called](https://historydaily.org/chocolate-food-of-the-gods) the “food of the gods".
 
