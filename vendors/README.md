@@ -1,7 +1,18 @@
 - Cacao
   - [Meridian](1)
+  - [Mucambo Estate Uruçuca, Bahia, Brasil](4)
 - Cococonut Nectar
   - [Madhava](2)
+- Coconut
+  - [Food To Live](3)
+- Olive Oil
+  - [California Olive Ranch](5)
+  - [Amphora Nueva Marin](8)
+- Salt
+  - [Pepper Creek Ranch](6)
+- Pistachio
+  - [Fiddyment Farms](7)
+
 
 1. [Meridian](https://meridiancacao.com)
 2. [Madhava](https://www.amazon.com/gp/product/B00BBDJJL6/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
