@@ -1,11 +1,10 @@
 ### Origin: Mucambo Estate, Brasil 2021
 
-### Laboratory Observations
+### Notes and Observations
 - Calcs for batch size of 9.6lb
 - Joseph grinder
-- Mucambo Brasil Beans
 
-### Ingredients Tracing
+### Ingredient Tracing
 - Cacao Butter
   - Vendor: Meridican Cacao Co
   - Batch# purchased on 2021/11/08, order# 3644
