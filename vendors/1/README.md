@@ -1,2 +1,2 @@
 - Vendor: Meridian
-- URL: [https://meridiancacao.com](https://meridiancacao.com)
+- URL: https://meridiancacao.com
