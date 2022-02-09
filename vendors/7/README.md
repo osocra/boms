@@ -1,0 +1,2 @@
+- Vendor: Fiddyment Farms
+- URL: https://www.fiddymentfarms.com/1-lb.-kernels/1-lb.-kernels-salt-free/
