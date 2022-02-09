@@ -1,6 +1,6 @@
 ### Notes and Observations
-- Calcs for batch size of 9.6lb
-- Joseph grinder
+- Batch size: 9.6lb
+- Grinder: Joseph
 
 ### Ingredient Tracing
 - Cacao Butter
