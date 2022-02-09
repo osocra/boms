@@ -1,5 +1,5 @@
 ## Dark Tanzania
-> Tasting notes: Cherry, Coffee, Lemon
+> Tasting notes: cherry, coffee, lemon
 
 [![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/products/22020916)
 
