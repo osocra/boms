@@ -1,5 +1,3 @@
-### Origin: Mucambo Estate, Brasil 2021
-
 ### Notes and Observations
 - Calcs for batch size of 9.6lb
 - Joseph grinder
