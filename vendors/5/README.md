@@ -1,0 +1,2 @@
+- Vendor: California Olive Ranch
+- URL: https://californiaoliveranch.com/product/100-california-everyday/
