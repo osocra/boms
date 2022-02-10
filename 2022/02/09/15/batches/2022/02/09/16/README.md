@@ -3,7 +3,9 @@
 - Grinder: Reena
 - Measure Raw beans = 9.6*0.45/0.85 = 5.08lbs
 - Roast 5.08/2 = 2.54lbs per roast
-- Hurks removed for this batch
+- > Hurks removed for this batch
+- Cacao Butter = 9.6*0.35 = 3.36lbs
+- Coconut Nectar = 9.6*0.2 = 1.92lbs
 - BOMs away on 9Feb22 at 6:55pm
 
 ### Ingredient Tracing
