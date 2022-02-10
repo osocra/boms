@@ -1,7 +1,7 @@
 ### Notes and Observations
 - Batch size: 9.6lb
 - Grinder: Joseph
-- Raw beans = 9.6*0.45/0.85 = 5.08lbs
+- Raw beans = 9.6*0.45 = 4.32lbs
 
 ### Ingredient Tracing
 - Cacao Beans
