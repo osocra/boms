@@ -3,6 +3,8 @@
 - Grinder: Reena
 - Measure Raw beans = 9.6*0.45/0.85 = 5.08lbs
 - Roast 5.08/2 = 2.54lbs per roast
+- Hurks removed for this batch
+- BOMs away on 9Feb22 at 6:55pm
 
 ### Ingredient Tracing
 - Cacao Beans
