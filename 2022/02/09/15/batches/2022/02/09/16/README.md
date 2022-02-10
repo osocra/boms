@@ -1,7 +1,8 @@
 ### Notes and Observations
 - Batch size: 9.6lb
 - Grinder: Reena
-- Raw beans = 9.6*0.45/0.85 = 5.08lbs
+- Measure Raw beans = 9.6*0.45/0.85 = 5.08lbs
+- Roast 5.08/2 = 2.54lbs per roast
 
 ### Ingredient Tracing
 - Cacao Beans
