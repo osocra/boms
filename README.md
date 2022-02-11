@@ -59,10 +59,10 @@ Support our project and buy our chocolate at [osocra.com](https://osocra.com) to
 | Cashew    | Almonds    | Coconut   | Hazelnut  | Olive Oil  | Ghee    |
 
 ### Infusion:
-> Raspberry, Mango, Blueberry, Rooibos, Turmeric, Cardamom, Rose Petal, Blood Orange, Pumpkin Spice, Pink Salt, Turmeric, Açaí, Maracujá, Espresso Bean, Matcha, Banana, Cupuaçu, Vanilla, Butterscotch
+> Raspberry, Mango, Blueberry, Rooibos, Turmeric, Cardamom, Rose Petal, Blood Orange, Pumpkin Spice, Pink Salt, Turmeric, Açaí, Maracujá, Espresso Bean, Matcha, Banana, Cupuaçu, Vanilla, Butterscotch, Goji Berry, Mint
 
 ### Inclusion:
-> Pistachio, Cashew, Persimmon
+> Pistachio, Cashew, Persimmon, Goji Berry
 
 ### Truffle (Filling):
 > Marmalade, Marzipan, Ghee, Butterscotch
