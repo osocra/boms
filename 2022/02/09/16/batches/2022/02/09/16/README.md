@@ -8,6 +8,7 @@
 - Measure Coconut Nectar = 9.6*0.2 = 1.92lbs
 - BOMs away at 9Feb22 at 6pm
 - Measure Raw beans = 9.6*0.45/0.85 = 5.08lbs
+- Add minimum of 5% seed > 9.6*0.05*16 = 7.68oz
 
 ### Ingredient Tracing
 - Cacao Beans
