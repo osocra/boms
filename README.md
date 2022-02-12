@@ -41,7 +41,13 @@ Support our project and buy our chocolate at [osocra.com](https://osocra.com) to
 | Hazelnut  | Strawberry    |           |          | Coconut Sugar  | Varies   | Mylk      | Avelã Strawberry                    |[22013110](2022/01/31/10)|
 |           |               |           |          | Coconut Sugar  | Peru     | Dark      |  Dark Peru                          |[22020915](2022/02/09/15)|
 |           |               |           |          | Coconut Sugar  | Tanzania | Dark      |  Dark Tanzania                      |[22020916](2022/02/09/16)|
-
+|           |               |           |          | Coconut Sugar  | India | Dark      |  Dark India |[22021315](2022/02/13/15)|
+|           |               |           |          | Coconut Sugar  | Brasil | Dark      |  Dark Brasil |[22021316](2022/02/13/16)|
+|           |               |           |          | Coconut Sugar  | Trinidad | Dark      |  Dark Trinidad |[22021317](2022/02/13/17)|
+|           |               |           |          | Coconut Sugar  | Domincan Republic | Dark      |  Dark Dominican Republic |[22021318](2022/02/13/18)|
+|           |               |           |          | Coconut Sugar  | Vietnam | Dark      |  Dark Vietnam |[22021319](2022/02/13/19)|
+|           |               |           |          | Coconut Sugar  | Equador | Dark      |  Dark Equador |[22021320](2022/02/13/20)|
+|           |               |           |          | Coconut Sugar  | Indonesia | Dark      |  Dark Indonesis |[22021321](2022/02/13/21)|
 
 ## Naming Convention:
 > Start from the top to bottom. A simple example with only 71% Cacao from Equador is "Dark Equador". A more complex example is "Mylk Crème Rooibos Persimmon Truffle Marmalade"
