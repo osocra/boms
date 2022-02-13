@@ -1,5 +1,5 @@
 ### Dark Coco
-> Flavor profile: varies
+> Flavor profile: coconut |
 
 [![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/products/21052813)
 
