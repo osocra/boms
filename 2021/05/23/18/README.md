@@ -11,7 +11,7 @@
 | Coconut Flakes     | 0.1      | lb      |
 
 #### Raw Materials
-- [ ] Organic Cacao Beans -  India, Anamalai [[1](/vendors/1)]
+- [ ] Organic Cacao Beans -  India / Anamalai [[1](/vendors/1)]
 - [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors/1)]
 - [ ] Organic Coconut Blossom Nectar [[5](/vendors/5)]
 - [ ] Organic Coconut Flakes [[6](/vendors/6)]
