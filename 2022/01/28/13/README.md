@@ -1,5 +1,5 @@
 ## Mylk Avelã Banana
-> Flavors: 
+> Flavors: hazelnut | banana
 
 [![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/products/22012813)
 
