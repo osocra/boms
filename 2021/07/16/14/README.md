@@ -1,5 +1,5 @@
 ## Dark Coco Dominican Republic
-> Tasting notes: Plum, molasses, spice
+> Tasting notes: plum | molasses | spice
 
 [![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/products/21071614)
 
