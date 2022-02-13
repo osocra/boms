@@ -1,5 +1,5 @@
 ## Mylk Avelã Strawberry
-> Flavors: Strawberry, Nutty
+> Flavor profile: Strawberry | Nutty
 
 [![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/products/22013110)
 
@@ -13,7 +13,7 @@
 
 #### Raw Materials
 - [ ] Organic Hazelnuts
-- [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
+- [ ] Organic Cacao Butter - Peru / Natural [[1](/vendors)]
 - [ ] Organic Cacao Nibs
 - [ ] Organic Coconut Blossom Nectar [[2](/vendors)]
 - [ ] Organic Strawberry Powder
