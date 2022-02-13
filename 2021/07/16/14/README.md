@@ -11,7 +11,7 @@
 | Coconut Flakes     | 0.1      | lb      |
 
 #### Raw Materials
-- [ ] Organic Cacao Beans -  Dominican Repubic, Zorzal Estate [[1](/vendors)]
+- [ ] Organic Cacao Beans -  Dominican Repubic | Zorzal Estate [[1](/vendors)]
 - [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
 - [ ] Organic Coconut Blossom Nectar [[5](/vendors)]
 - [ ] Organic Coconut Flakes [[6](/vendors)]
