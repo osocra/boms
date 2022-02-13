@@ -47,7 +47,8 @@ Support our project and buy our chocolate at [osocra.com](https://osocra.com) to
 |           |               |           |          | Coconut Sugar  | Domincan Republic | Dark      |  Dark Dominican Republic |[22021318](2022/02/13/18)|
 |           |               |           |          | Coconut Sugar  | Vietnam | Dark      |  Dark Vietnam |[22021319](2022/02/13/19)|
 |           |               |           |          | Coconut Sugar  | Equador | Dark      |  Dark Equador |[22021320](2022/02/13/20)|
-|           |               |           |          | Coconut Sugar  | Indonesia | Dark      |  Dark Indonesis |[22021321](2022/02/13/21)|
+|           |               |           |          | Coconut Sugar  | Indonesia | Dark      |  Dark Indonesia |[22021321](2022/02/13/21)|
+|  Coco     |               |           |          | Coconut Sugar  | Varies | Dark      |  Dark Coco |[22021322](2022/02/13/22)|
 
 ## Naming Convention:
 > Start from the top to bottom. A simple example with only 71% Cacao from Equador is "Dark Equador". A more complex example is "Mylk Crème Rooibos Persimmon Truffle Marmalade"
