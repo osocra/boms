@@ -61,9 +61,9 @@ Support our project and buy our chocolate at [osocra.com](https://osocra.com) to
 
 ### Base:
 
-| Crème     | Marzipan   | Coco      | Avelã     | EVOO       | Ghee    | Pistachio|
-| :---      | :---       | :---      | :---      | :---       | :---    | :---     |
-| Cashew    | Almonds    | Coconut   | Hazelnut  | Olive Oil  | Ghee    | Pista    |
+| Crème     | Marzipan   | Coco      | Avelã     | EVOO       | Ghee    | Pista     |
+| :---      | :---       | :---      | :---      | :---       | :---    | :---      |
+| Cashew    | Almonds    | Coconut   | Hazelnut  | Olive Oil  | Ghee    | Pistachio |
 
 ### Infusion:
 > Raspberry, Mango, Blueberry, Rooibos, Turmeric, Cardamom, Rose Petal, Blood Orange, Pumpkin Spice, Pink Salt, Turmeric, Açaí, Maracujá, Espresso Bean, Matcha, Banana, Cupuaçu, Vanilla, Butterscotch, Goji Berry, Mint
