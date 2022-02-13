@@ -1,5 +1,5 @@
 ## White Crème Matcha
-> Tasting notes: Nutty, Creamy, Matcha
+> Tasting notes: Nutty | Creamy| Matcha
 
 [![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/products/22012814)
 
@@ -12,7 +12,7 @@
 
 
 #### Raw Materials
-- [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
+- [ ] Organic Cacao Butter - Peru / Natural [[1](/vendors)]
 - [ ] Organic Cashews
 - [ ] Organic Cane Sugar [[3](/vendors)]
 - [ ] Organic Matcha Powder
