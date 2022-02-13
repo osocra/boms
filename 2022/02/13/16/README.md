@@ -10,6 +10,6 @@
 | Organic Coconut Blossom Nectar   | 0.2      | lb      |
 
 #### Raw Materials
-- [ ] Organic Cacao Beans -  Trinidad Microlots [[1](/vendors)]
+- [ ] Organic Cacao Beans -  Brasil / Mucambo Estate [[1](/vendors)]
 - [ ] Organic Cacao Butter - Peru, Natural [[2](/vendors)]
 - [ ] Organic Coconut Blossom Nectar [[3](/vendors)]
