@@ -7,7 +7,7 @@
 | :---     | ---:    | :--- |
 | Cacao Nibs  | 0.4   | lb    |
 | Cacao Butter   | 0.35   | lb    |
-| Coconut Blossom Nectar   | 0.2 | lb      |
+| Coconut Nectar   | 0.2 | lb      |
 | Resveratrol   | 0.05 | lb      |
 
 #### Raw Materials
