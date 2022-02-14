@@ -12,8 +12,8 @@
 | Resveratrol   | 0.05 | lb      |
 
 #### Raw Materials
-- [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
 - [ ] Organic Cacao Nibs
+- [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
 - [ ] Organic Cashews
 - [ ] Organic Coconut Blossom Nectar [[2](/vendors)]
 - [ ] Organic Resveratrol Powder
