@@ -6,8 +6,6 @@
 - roast settings 1 P3 C Start
   -- notes of baking chocolate, red currant
 - caco nibs recovery 72% (1.58 + 1.52lbs)
-- Crack using Champion 2000+ juicer 
-- Sylph winnower settings: vaccuum adjustment valve closed , discriminator valve closed
 - recovery: 20 oz husks, 1.58 + 1.52 = 3.10lbs nibs (75% recovery) 
 - Used One Infra Red lamp which reduced ingredient load times greatly
 - Started loading BOM at noon and finished at 2pm (20Dec21)
