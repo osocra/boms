@@ -7,7 +7,7 @@
 | :---     | ---:    | :--- |
 | Cacao Nibs  | 0.3   | lb    |
 | Cacao Butter   | 0.25   | lb    |
-| Cashews   | 0.2  | lb      |
+| Cashew   | 0.2  | lb      |
 | Coconut Blossom Nectar   | 0.2 | lb      |
 | Resveratrol   | 0.05 | lb      |
 
