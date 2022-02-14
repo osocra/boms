@@ -5,8 +5,8 @@
 
 | Item | Quantity | UoM  |
 | :---     | ---:    | :--- |
-| Cacao Nibs  | 0.35   | lb    |
-| Cacao Butter   | 0.3   | lb    |
+| Cacao Nibs  | 0.4   | lb    |
+| Cacao Butter   | 0.35   | lb    |
 | Coconut Blossom Nectar   | 0.2 | lb      |
 | Resveratrol   | 0.05 | lb      |
 
