@@ -10,7 +10,7 @@
 - Soy
 
 ## Blurb
-> ???
+> Swaying in the breeze, blue ocean waves
 
 ## Ingredients
 > Cacao, Coconut, Coconut Nectar
