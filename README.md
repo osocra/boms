@@ -11,7 +11,6 @@ Support our project and buy our chocolate at [osocra.com](https://osocra.com) to
 
 | Base      | Infusion      | Inclusion | Truffle  | Sweetener      | Origin             | Cacao     | Name                    |                         |
 | :---      | :---          | :---      | :---     | :---           | :---               | ---:      | :---                    | :---                    |
-| Coconut   |               |           |          | Coconut Nectar | Peru               | Dark      | Coco Peru               |[21073013](2021/07/30/13)|
 |           | Pumpkin Spice | Persimmon |          | Coconut Nectar | Varies             | Dark      | Pumpkin Spice Persimmon |[21102514](2021/10/25/14)|
 |           | Pink Salt     | Pistachio |          | Coconut Nectar | Varies             | Dark      | Pink Salt Pistachio     |[21110110](2021/11/01/10)|
 |           | Turmeric      | Ginger    |          | Coconut Nectar | Varies             | Dark      | Turmeric Ginger         |[21110111](2021/11/01/11)|
