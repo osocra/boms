@@ -1,4 +1,4 @@
-### Origin: Ucayali / Peru 2021
+### Origin: Mucambo Estate / Brasil 2021
 
 ### Notes and Observations
 - Batch size: 9.6lb

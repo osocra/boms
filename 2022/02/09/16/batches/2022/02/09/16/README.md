@@ -1,5 +1,3 @@
-### Origin: Kokoa Kamili / Tanzania
-
 ### Notes and Observations
 - Batch size: 9.6lb
 - Grinder: Joseph
