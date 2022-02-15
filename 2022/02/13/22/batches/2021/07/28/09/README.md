@@ -41,5 +41,5 @@ Total batch = 17lb
 - NewAir Fridge setting 5
   - add 5 fans (each fan separated by 3 shelves, 2 each on lower shelves) on high setting
 - fill fridge to capacaity, 2 molds (8 bars) per shelf
-- Conching (loosen Spectra Knob) 1hr befroe finsih grind to add shine to bars
+- Conching (loosen Spectra Knob) 1hr before finish grind to add shine to bars
 - YES! 174 Bars successfully molded!
