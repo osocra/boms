@@ -1,4 +1,4 @@
-### Origin: India / Anamali Mountains
+### Origin: Anamali Mountains / India 2021 
 
 ## Cacao Percentage
 > 80%
