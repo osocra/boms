@@ -1,4 +1,4 @@
-## Dark Crème Red
+## Dark Resveratrol
 > Flavors: Creamy, Gentle, Longevity-ness
 
 [![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/products/22011223)
