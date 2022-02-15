@@ -11,7 +11,6 @@ Support our project and buy our chocolate at [osocra.com](https://osocra.com) to
 
 | Base      | Infusion      | Inclusion | Truffle  | Sweetener      | Origin             | Cacao     | Name                    |                         |
 | :---      | :---          | :---      | :---     | :---           | :---               | ---:      | :---                    | :---                    |
-| Coconut   |               |           |          | Coconut Nectar | Brasil             | Dark      | Coco Brasil             |[21070415](2021/07/04/15)|
 | Coconut   |               |           |          | Coconut Nectar | Dominican Republic | Dark      | Coco Dominican Republic |[21071614](2021/07/16/14)|
 | Coconut   |               |           |          | Coconut Nectar | Tanzania           | Dark      | Coco Tanzania           |[21072109](2021/07/21/09)|
 | Coconut   |               |           |          | Coconut Nectar | Vietnam            | Dark      | Coco Vietnam            |[21072610](2021/07/26/10)|
