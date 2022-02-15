@@ -1,6 +1,5 @@
 ### Origin: Mucambo Estate / Brasil 2021
 
-
 ### Laboratory Observations
 - If 2 molds (8 bars) per rack, then, mold'en' is gold'en'
 - add Ingredient mix 1 full scoop at a time - ensure mix doesn't 'fly' outside of grinder
@@ -11,8 +10,7 @@
 - Conching (loosen Spectra Knob) 1hr before finish grind to add shine to bars
 - YES! XX Bars successfully molded!
 
-
-- ### Tasks
+### Tasks
 1. Grind
 2. Temper
 3. Mold
