@@ -1,4 +1,4 @@
-### Origin: Trinidad Microlots
+### Origin: Rio Claro / Trinidad 2021
 
 ## Cacao Percentage
 > 80%
