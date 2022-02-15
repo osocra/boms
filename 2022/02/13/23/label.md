@@ -1,12 +1,11 @@
 ### Origin: Varies
 
 ## Cacao Percentage
-> 55%
+> 75%
 
 ## Free Of
 - Dairy
 - Gluten
-- Nuts
 - Soy
 
 ## Blurb
