@@ -1,4 +1,4 @@
-### Dark Equador
+### Dark Ecuador
 > Flavor profile: fudgy | almond | floral
 
 [![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/products/22021320)
