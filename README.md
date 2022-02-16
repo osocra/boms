@@ -44,7 +44,7 @@ Support our project and buy our chocolate at [osocra.com](https://osocra.com) to
 |  Cashew   |  Resveratrol  |           |          | Coconut Sugar  | Varies             | Dark      | Resveratrol       |[22021323](2022/02/13/23)|
 
 ## Naming Convention:
-> Start from the top to bottom. A simple example with only 71% Cacao from Equador is "Dark Equador". A more complex example is "Mylk Crème Rooibos Persimmon Truffle Marmalade"
+> Start from the top to bottom. A simple example with only 71% Cacao from Equador is "Dark Ecuador". A more complex example is "Mylk Crème Rooibos Persimmon Truffle Marmalade"
 
 ### Cacao:
 
