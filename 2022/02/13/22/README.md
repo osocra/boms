@@ -12,6 +12,6 @@
 
 #### Raw Materials
 - [ ] Organic Cacao Beans -  Varies [[1](/vendors)]
-- [ ] Organic Cacao Butter - Peru, Natural [[2](/vendors)]
-- [ ] Organic Coconut Blossom Nectar [[3](/vendors)]
+- [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
+- [ ] Organic Coconut Blossom Nectar [[2](/vendors)]
 - [ ] Organic Coconut Flakes [[4](/vendors)]
