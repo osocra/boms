@@ -76,3 +76,23 @@ Support our project and buy our chocolate at [osocra.com](https://osocra.com) to
 
 ### Origin:
 > Brasil, Dominican Republic, Ecuador, India, Indonesia, Madagascar, Peru, Tanzania, Trinidad, Vietnam 
+
+### Flag Color Key:
+
+#### Cacao
+
+| White    | Mylk    | Dark Mylk | Dark   |
+| :---     | :---    | :---      | :---   |
+| xxxxx  | xxxxx  |  xxxxx     |  xxxxx   |
+
+#### Base
+
+| Crème    | Marzipan | Coco    | Avelã     |
+| :---     | :---     | :---    | :---   |
+| xxxxx  | xxxxx | xxxxx   | xxxxx  |
+
+#### Sweetener
+
+| Coconut Nectar | Cane Sugar  |
+| :---           | :---        |
+|    xxxxx       |    xxxxx    |
