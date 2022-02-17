@@ -89,7 +89,7 @@ Support our project and buy our chocolate at [osocra.com](https://osocra.com) to
 
 | Crème    | Marzipan | Coco    | Avelã     |
 | :---     | :---     | :---    | :---   |
-| xxxxx  | xxxxx | xxxxx   | xxxxx  |
+| #a47149  | xxxxx | xxxxx   | xxxxx  |
 
 #### Sweetener
 
