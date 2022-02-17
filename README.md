@@ -81,18 +81,18 @@ Support our project and buy our chocolate at [osocra.com](https://osocra.com) to
 
 #### Cacao
 
-| White    | Mylk    | Dark Mylk | Dark   |
-| :---     | :---    | :---      | :---   |
-| xxxxx  | xxxxx  |  xxxxx     |  #000000   |
+| White    | Mylk    | Dark Mylk | Dark    |
+| :---     | :---    | :---      | :---    |
+| #efefef  | #84563c |  #4f3d2a  | #352620 |
 
 #### Base
 
 | Crème    | Marzipan | Coco    | Avelã     |
-| :---     | :---     | :---    | :---   |
-| #a47149  | xxxxx | xxxxx   | xxxxx  |
+| :---     | :---     | :---    | :---      |
+| #a47149  | #eed9c4  | #d5e4c0 | #90795c   |
 
 #### Sweetener
 
 | Coconut Nectar | Cane Sugar  |
 | :---           | :---        |
-|    #965a3e       |    #eeefdf    |
+| #965a3e        | #eeefdf     |
