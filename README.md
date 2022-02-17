@@ -17,7 +17,7 @@ Support our project and buy our chocolate at [osocra.com](https://osocra.com) to
 |           | Pink Salt     | Cashew    |          | Coconut Nectar | Varies             | Dark      | Pink Salt Cashew        |[21110308](2021/11/03/08)|
 | Cashew    |               |           |          |                | Varies             | Dark      | Crème                   |[21110712](2021/11/07/12)|
 | Cashew    | Rooibos, Cinnamon |       |          | Coconut Nectar | Varies             | Mylk      | Crème Cinnamon Rooibos  |[21110916](2021/11/09/16)|
-| Coconut   |               |           | Marzipan | Coconut Nectar | Varies             | Dark      | Coco Truffle Marzipan   |[21112911](2021/11/29/11)|
+|           |               |           | Marzipan | Coconut Nectar | Varies             | Dark      | Truffle Marzipan   |[21112911](2021/11/29/11)|
 | Olive Oil |               |           |          | Coconut Nectar | Varies             | Dark      | EVOO                    |[21121510](2021/12/15/10)|
 | Olive Oil | Blood Orange  |           |          | Coconut Nectar | Varies             | Dark      | EVOO Blood Orange       |[21121816](2021/12/18/16)|
 | Coconut   | Rose, Cardamom|           |          | Coconut Nectar | Varies             | Dark      | Coco Rose               |[22011215](2022/01/12/15)|
@@ -42,6 +42,10 @@ Support our project and buy our chocolate at [osocra.com](https://osocra.com) to
 |           |               |           |          | Coconut Sugar  | Indonesia          | Dark      | Indonesia               |[22021321](2022/02/13/21)|
 |  Coco     |               |           |          | Coconut Sugar  | Varies             | Dark      | Coco                    |[22021322](2022/02/13/22)|
 |  Cashew   |  Resveratrol  |           |          | Coconut Sugar  | Varies             | Dark      | Resveratrol       |[22021323](2022/02/13/23)|
+|           |               |           | Avelã    | Coconut Nectar | Varies             | Dark      | Avelã Truffle   |[22021712](2022/02/17/12)|
+|           |               |           | Crème    | Coconut Nectar | Varies             | Dark      | Crème Truffle   |[22021713](2022/02/17/13)|
+|           |               |           | Coco     | Coconut Nectar | Varies             | Dark      | Coco Truffle   |[22021714](2022/02/17/14)|
+|           |               |           | Pista    | Coconut Nectar | Varies             | Dark      | Pista Truffle   |[22021715](2022/02/17/15)|
 
 ## Naming Convention:
 > Start from the top to bottom. A simple example with only 71% Cacao from Equador is "Dark Ecuador". A more complex example is "Mylk Crème Rooibos Persimmon Truffle Marmalade"
@@ -62,13 +66,13 @@ Support our project and buy our chocolate at [osocra.com](https://osocra.com) to
 > Raspberry, Mango, Blueberry, Rooibos, Turmeric, Cardamom, Rose Petal, Blood Orange, Pumpkin Spice, Pink Salt, Turmeric, Açaí, Maracujá, Espresso Bean, Matcha, Banana, Cupuaçu, Vanilla, Butterscotch, Goji Berry, Mint, Resveratrol, Cayenne, Ghost Pepper
 
 ### Inclusion:
-> Pistachio, Cashew, Persimmon, Goji Berry
+> Cashew, Goji Berry,  Persimmon, Pistachio
 
 ### Truffle (Filling):
-> Marmalade, Marzipan, Ghee, Butterscotch
+> Butterscotch, Ghee, Marmalade, Marzipan 
 
 ### Sweetener:
 > Coconut Nectar, Cane Sugar, Maple Sugar
 
 ### Origin:
-> India, Trinidad, Brasil, Dominican Republic, Tanzania, Vietnam, Equador, Peru, Madagascar, Indonesia
+> Brasil, Dominican Republic, Ecuador, India, Indonesia, Madagascar, Peru, Tanzania, Trinidad, Vietnam 
