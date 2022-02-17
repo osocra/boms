@@ -17,7 +17,7 @@ Support our project and buy our chocolate at [osocra.com](https://osocra.com) to
 |           | Pink Salt     | Cashew    |          | Coconut Nectar | Varies             | Dark      | Pink Salt Cashew        |[21110308](2021/11/03/08)|
 | Cashew    |               |           |          |                | Varies             | Dark      | Crème                   |[21110712](2021/11/07/12)|
 | Cashew    | Rooibos, Cinnamon |       |          | Coconut Nectar | Varies             | Mylk      | Crème Cinnamon Rooibos  |[21110916](2021/11/09/16)|
-|           |               |           | Marzipan | Coconut Nectar | Varies             | Dark      | Truffle Marzipan   |[21112911](2021/11/29/11)|
+|           |               |           | Marzipan | Coconut Nectar | Varies             | Dark      | Marzipan Truffle    |[21112911](2021/11/29/11)|
 | Olive Oil |               |           |          | Coconut Nectar | Varies             | Dark      | EVOO                    |[21121510](2021/12/15/10)|
 | Olive Oil | Blood Orange  |           |          | Coconut Nectar | Varies             | Dark      | EVOO Blood Orange       |[21121816](2021/12/18/16)|
 | Coconut   | Rose, Cardamom|           |          | Coconut Nectar | Varies             | Dark      | Coco Rose               |[22011215](2022/01/12/15)|
