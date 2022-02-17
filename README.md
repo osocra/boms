@@ -83,7 +83,7 @@ Support our project and buy our chocolate at [osocra.com](https://osocra.com) to
 
 | White    | Mylk    | Dark Mylk | Dark   |
 | :---     | :---    | :---      | :---   |
-| xxxxx  | xxxxx  |  xxxxx     |  xxxxx   |
+| xxxxx  | xxxxx  |  xxxxx     |  #000000   |
 
 #### Base
 
@@ -95,4 +95,4 @@ Support our project and buy our chocolate at [osocra.com](https://osocra.com) to
 
 | Coconut Nectar | Cane Sugar  |
 | :---           | :---        |
-|    xxxxx       |    xxxxx    |
+|    #965a3e       |    #eeefdf    |
