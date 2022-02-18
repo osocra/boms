@@ -8,7 +8,7 @@
 | Cacao Butter   | 0.4    | lb    |
 | Coconut     | 0.3      | lb      |
 | Cane Sugar    | 0.25      | lb      |
-| Raspberry Powder    | 0.05      | lb      |
+| Raspberry   | 0.05      | lb      |
 
 
 #### Raw Materials
