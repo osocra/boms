@@ -7,7 +7,7 @@
 | :---     | ---:    | :--- |
 | Cacao Nibs  | 0.45    | lb    |
 | Cacao Butter   | 0.35    | lb    |
-| Organic Coconut Blossom Nectar   | 0.2      | lb      |
+| Coconut Nectar   | 0.2      | lb      |
 
 #### Raw Materials
 - [ ] Organic Cacao Beans -  Ecuador / Camino Verde [[1](/vendors)]
