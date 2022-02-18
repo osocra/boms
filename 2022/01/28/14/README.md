@@ -8,7 +8,7 @@
 | Cacao Butter   | 0.4    | lb    |
 | Cashew    | 0.3      | lb      |
 | Cane Sugar    | 0.25      | lb      |
-| Matcha Powder    | 0.05 (0.8oz)      | lb      |
+| Matcha   | 0.05 (0.8oz)      | lb      |
 
 
 #### Raw Materials
