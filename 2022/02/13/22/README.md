@@ -8,7 +8,7 @@
 | Cacao Nibs  | 0.35    | lb    |
 | Cacao Butter   | 0.35    | lb    |
 | Coconut Nectar   | 0.2      | lb      |
-| Coconut Flakes     | 0.1      | lb      |
+| Coconut   | 0.1      | lb      |
 
 #### Raw Materials
 - [ ] Organic Cacao Beans -  Varies [[1](/vendors)]
