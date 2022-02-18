@@ -7,9 +7,9 @@
 | :---     | ---:    | :--- |
 | Cacao Nibs  | 0.3    | lb    |
 | Cacao Butter   | 0.35    | lb    |
-| Coconut Blossom Nectar    | 0.20      | lb      |
+| Coconut Nectar    | 0.20      | lb      |
 | Ghee    | 0.1     | lb      |
-| Mango Powder    | 0.05      | lb      |
+| Mango   | 0.05      | lb      |
 
 #### Raw Materials
 - [ ] Organic Cacao Beans
