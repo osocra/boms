@@ -1,9 +1,11 @@
+### Origin: Kokoa Kamili / Tanzania 2021
+
 ### Notes and Observations
 - Batch size: 9.6lb
 - Grinder: Joseph
 - Measure Raw beans = 9.6*0.45 = 4.32lbs 
-- > Roast 4.32/2 = 2.16lbs per roast
-- > Husks included in this batch
+  - Roast 4.32/2 = 2.16lbs per roast
+  - Husks included in this batch
 - Measure Cacao Butter = 9.6*0.35 = 3.36lbs
 - Measure Coconut Nectar = 9.6*0.2 = 1.92lbs
 - BOMs away at 9Feb22 at 6pm
