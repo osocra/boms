@@ -6,15 +6,15 @@
 | Item | Quantity | UoM  |
 | :---     | ---:    | :--- |
 | Cacao Butter   | 0.4    | lb    |
-| Almond Flour     | 0.3      | lb      |
+| Almond     | 0.3      | lb      |
 | Cane Sugar    | 0.25      | lb      |
-| Raspberry Powder    | 0.04375 (0.7.oz)      | lb      |
+| Raspberry   | 0.04375 (0.7.oz)      | lb      |
 | Almond Extract    | 0.00625 (0.1oz)    | lb      |
 
 
 #### Raw Materials
 - [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
-- [ ] Organic Almond Flour 
+- [ ] Organic Almond 
 - [ ] Organic Cane Sugar [[3](/vendors)]
 - [ ] Organic Raspberry Powder
 - [ ] Organic Almond Extract
