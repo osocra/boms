@@ -9,7 +9,7 @@
 | :---     | ---:    | :--- |
 | Cacao Nibs  | 0.35    | lb    |
 | Cacao Butter   | 0.35    | lb    |
-| Cashews    | 0.3      | lb      |
+| Cashew    | 0.3      | lb      |
 
 #### Raw Materials
 - [ ] Organic Cacao Beans -  Peru / Ucayali [[1](/vendors)]
