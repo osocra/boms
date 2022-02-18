@@ -7,7 +7,7 @@
 | :---     | ---:    | :--- |
 | Cacao Nibs  | 0.35    | lb    |
 | Cacao Butter   | 0.35    | lb    |
-| Coconut Blossom Nectar    | 0.2      | lb      |
+| Coconut Nectar    | 0.2      | lb      |
 | Persimmons    | 0.095 (1.52 oz)    | lb      |
 | Pumpkin Spice     | 0.005 (0.08 oz)    | lb      |
 
