@@ -7,12 +7,12 @@
 | :---     | ---:    | :--- |
 | Cacao Nibs  | 0.35   | lb    |
 | Cacao Butter   | 0.35   | lb    |
-| Coconut Blossom Nectar     | 0.2      | lb      |
-| Almond Paste   | 0.1      | lb      |
+| Coconut Nectar     | 0.2      | lb      |
+| Almond   | 0.1      | lb      |
 
 
 #### Raw Materials
 - [ ] Organic Cacao Beans
 - [ ] Organic Cacao Butter
 - [ ] Organic Coconut Sugar [[5](/vendors)]
-- [ ] Organic Almond Paste
+- [ ] Organic Almond
