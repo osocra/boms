@@ -7,10 +7,10 @@
 | :---     | ---:    | :--- |
 | Cashews     | 0.36      | lb      |
 | Cacao Butter   | 0.36    | lb    |
-| Coconut Blossom Nectar     | 0.21      | lb      |
-| Raspberry Powder     | 0.05      | lb      |
+| Coconut Nectar     | 0.21      | lb      |
+| Raspberry    | 0.05      | lb      |
 | Cardamom     | 0.01 (0.16oz)      | lb      |
-| Rose Powder  | 0.01 (0.16oz)      | lb      |
+| Rose Petal  | 0.01 (0.16oz)      | lb      |
 
 #### Raw Materials
 - [ ] Organic Cashews 
@@ -18,4 +18,4 @@
 - [ ] Organic Coconut Blossom Nectar [[2](/vendors)]
 - [ ] Organic Raspberry Powder
 - [ ] Organic Cardamom 
-- [ ] Organic Rose Powder
+- [ ] Organic Rose Petal Powder
