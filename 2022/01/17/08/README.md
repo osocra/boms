@@ -6,9 +6,9 @@
 | Item | Quantity | UoM  |
 | :---     | ---:    | :--- |
 | Cacao Butter   | 0.4    | lb    |
-| Coconut Flakes     | 0.3      | lb      |
+| Coconut    | 0.3      | lb      |
 | Cane Sugar    | 0.25      | lb      |
-| Mango Powder    | 0.05      | lb      |
+| Mango   | 0.05      | lb      |
 
 
 #### Raw Materials
