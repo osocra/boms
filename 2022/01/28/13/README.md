@@ -8,8 +8,8 @@
 | Hazelnut   | 0.35  | lb      |
 | Cacao Butter   | 0.3   | lb    |
 | Cacao Nibs  | 0.1   | lb    |
-| Coconut Blossom Nectar   | 0.2 | lb      |
-| Banana Powder   | 0.05 (0.8oz)      | lb      |
+| Coconut Nectar   | 0.2 | lb      |
+| Banana  | 0.05 (0.8oz)      | lb      |
 
 #### Raw Materials
 - [ ] Organic Hazelnuts
