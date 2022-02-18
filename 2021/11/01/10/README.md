@@ -7,8 +7,8 @@
 | :---     | ---:    | :--- |
 | Cacao Nibs  | 0.35    | lb    |
 | Cacao Butter   | 0.35    | lb    |
-| Coconut Blossom Nectar    | 0.2      | lb      |
-| Pistachios    | 0.0975 (1.56 oz)    | lb      |
+| Coconut Nectar    | 0.2      | lb      |
+| Pistachio    | 0.0975 (1.56 oz)    | lb      |
 | Pink Salt    | 0.0025 (0.04 oz)    | lb      |
 
 #### Raw Materials
