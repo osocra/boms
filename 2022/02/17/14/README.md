@@ -1,4 +1,4 @@
-## Dark Coco Truffle
+## Dark Truffle Coco
 > Flavors: Coconut
 
 [![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/products/22021714)
