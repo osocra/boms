@@ -7,9 +7,9 @@
   - Roast 4.32/2 = 2.18lbs per roast
   - Husks included in this batch
 - Measure Cacao Butter = 9.7*0.35 = 3.36lbs
-- Measure Coconut Nectar = 9.6*0.2 = 1.92lbs
+- Measure Coconut Nectar = 9.7*0.2 = 1.94lbs
 - BOMs away at ...
-- Add minimum of 5% seed > 9.6*0.05*16 = 7.68oz
+- Add minimum of 5% seed > 9.7*0.05*16 = 7.76oz
 
 ### Ingredient Tracing
 - Cacao Beans
