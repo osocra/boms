@@ -9,7 +9,7 @@
 - Measure Cacao Butter = 9.7*0.35 = 3.36lbs
 - Measure Coconut Nectar = 9.7*0.2 = 1.94lbs
 - BOMs away at 1130am
-- Add minimum of 5% seed > 9.7*0.05*16 = 7.76oz
+- Add minimum of 5% seed = 9.7*0.05*16 = 7.76oz
 
 ### Ingredient Tracing
 - Cacao Beans
