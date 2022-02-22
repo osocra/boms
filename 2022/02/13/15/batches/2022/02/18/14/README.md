@@ -1,4 +1,4 @@
-### Origin: Anamalai Mountains / India 2021
+## Origin: Anamalai Mountains / India 2021
 
 ### Notes and Observations
 - Batch size: 9.7lb
