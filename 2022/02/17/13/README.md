@@ -1,7 +1,7 @@
 ## Dark Truffle Crème  
 > Flavors: Cashew
 
-[![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/products/22021712)
+[![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/products/22021713)
 
 | Item | Quantity | UoM  |
 | :---     | ---:    | :--- |
