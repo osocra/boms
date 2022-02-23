@@ -41,7 +41,7 @@ Support our project and buy our chocolate at [osocra.com](https://osocra.com) to
 |           |               |           |          | Coconut Sugar  | Equador            | Dark      | Equador                 |[22021320](2022/02/13/20)|
 |           |               |           |          | Coconut Sugar  | Indonesia          | Dark      | Indonesia               |[22021321](2022/02/13/21)|
 |  Coco     |               |           |          | Coconut Sugar  | Varies             | Dark      | Coco                    |[22021322](2022/02/13/22)|
-|  Cashew   |  Resveratrol  |           |          | Coconut Sugar  | Varies             | Dark      | Resveratrol             |[22021323](2022/02/13/23)|
+|           |  Resveratrol  |           |          | Coconut Sugar  | Varies             | Dark      | Resveratrol             |[22021323](2022/02/13/23)|
 |           |               |           | Avelã    | Coconut Nectar | Varies             | Dark      | Truffle Avelã           |[22021712](2022/02/17/12)|
 |           |               |           | Crème    | Coconut Nectar | Varies             | Dark      | Truffle Crème           |[22021713](2022/02/17/13)|
 |           |               |           | Coco     | Coconut Nectar | Varies             | Dark      | Truffle Coco            |[22021714](2022/02/17/14)|
