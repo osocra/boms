@@ -52,9 +52,9 @@ Support our project and buy our chocolate at [osocra.com](https://osocra.com) to
 
 ### Cacao:
 
-| White    | Mylk    | Dark Mylk | Dark   |  Midnight  | Max  |
-| :---     | :---    | :---      | :---   |  :---      | :---  |
-| No Nibs  | > 15%   | > 55%     | > 70%  |  > 85%     | 100%  |
+| White    | Mylk    | Dark Mylk | Dark   |  Midnight  | Blackout |
+| :---     | :---    | :---      | :---   |  :---      | :---     |
+| No Nibs  | > 15%   | > 55%     | > 70%  |  > 85%     | 100%     |
 
 ### Base:
 
