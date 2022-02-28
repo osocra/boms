@@ -2,7 +2,7 @@
 
 ### Notes and Observations
 - Batch size: 9.8lb
-- Grinder: XX
+- Grinder: Reena
 - Measure Raw beans = 9.8lbs 
   - Roast 2.48lbs beans x 4
   - Husks included in this batch
