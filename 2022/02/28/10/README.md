@@ -5,7 +5,7 @@
 
 | Item | Quantity | UoM  |
 | :---     | ---:    | :--- |
-| Cacao Nibs  | 0.9    | lb    |
+| Cacao Beans  | 0.9    | lb    |
 | Coconut Nectar   | 0.1      | lb      |
 
 #### Raw Materials
