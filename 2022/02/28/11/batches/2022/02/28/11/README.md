@@ -6,7 +6,7 @@
 - Measure Raw beans = 9.8lbs 
   - Roast 2.48lbs beans x 4
   - Husks included in this batch
-- BOMs away at XX
+- BOMs away at 1830
 - Add minimum of 5% seed = (9.8*0.05)*16 = 7.84oz
 
 ### Ingredient Tracing
