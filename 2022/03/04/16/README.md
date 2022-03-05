@@ -14,4 +14,4 @@
 - [ ] Organic Cacao Beans -  Varies [[1](/vendors)]
 - [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
 - [ ] Organic Coconut Blossom Nectar [[2](/vendors)]
-- [ ] Organic Pistahio
+- [ ] Organic Pistachio
