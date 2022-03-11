@@ -10,6 +10,8 @@
 | Coconut Nectar   | 0.1975   | lb      |
 | Pink Salt    | 0.0025 (0.04 oz)    | lb      |
 
+10% of each bar is whole pistachios, which is roughly 7 whole pistachios
+
 
 #### Raw Materials
 - [ ] Organic Cacao Beans -  Equador / Camino Verde [[1](/vendors)]
