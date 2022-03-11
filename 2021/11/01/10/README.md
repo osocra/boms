@@ -5,11 +5,11 @@
 
 | Item | Quantity | UoM  |
 | :---     | ---:    | :--- |
-| Cacao Nibs  | 0.5    | lb    |
+| Cacao Beans  | 0.6    | lb    |
 | Cacao Butter   | 0.2    | lb    |
-| Coconut Nectar    | 0.2      | lb      |
-| Pistachio    | 0.0975 (1.56 oz)    | lb      |
+| Coconut Nectar   | 0.1975   | lb      |
 | Pink Salt    | 0.0025 (0.04 oz)    | lb      |
+
 
 #### Raw Materials
 - [ ] Organic Cacao Beans -  Equador / Camino Verde [[1](/vendors)]
