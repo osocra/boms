@@ -4,9 +4,9 @@
 - Batch size: 9.8lb
 - Grinder: Joseph
 - Measure Raw beans = 9.8lbs 
-  - Roast 5.88lbs beans
+  - Roast 4.9lbs beans
   - Husks included in this batch
-- BOMs away at 1830
+- BOMs away at 12
 - Add minimum of 5% seed = (9.8*0.05)*16 = 7.84oz
 
 ### Ingredient Tracing
