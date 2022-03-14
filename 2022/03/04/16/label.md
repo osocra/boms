@@ -1,5 +1,5 @@
 ## Cacao Percentage
-> 80%
+> 70%
 
 ## Free Of
 - Dairy
