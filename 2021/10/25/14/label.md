@@ -8,7 +8,8 @@
 - Soy
 
 ## Blurb
-> Persimmon and pumpkin spice harmonizing with dark chocolate
+> Persimmon and pumpkin spice in harmony with dark chocolate
+
 > This harvest mixture of pumpkin spice and persimmon fruit harmonizes with the intensity of dark chocolate. Spicy and zesty, warm and sweet, indulge your senses and body.
 > 
 > Victorian era was a period of extreme social inequality. Floriography allowed people to convey complex, secret feelings that would otherwise be impolite to say aloud in such a conservative time.
