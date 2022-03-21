@@ -1,10 +1,14 @@
 - Cacao
   - [Meridian](1)
   - [Mucambo Estate Uruçuca, Bahia, Brasil](4)
+- Cane Sugar
+  - [Costco](9)
 - Coconut Nectar
   - [Madhava](2)
 - Coconut
   - [Food To Live](3)
+- Coffee
+  - [Red Whale Coffee](10)
 - Olive Oil
   - [California Olive Ranch](5)
   - [Amphora Nueva Marin](8)
