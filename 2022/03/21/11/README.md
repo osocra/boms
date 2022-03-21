@@ -9,7 +9,7 @@
 | Cacao Butter   | 0.2    | lb    |
 | Cane Sugar   | 0.2   | lb      |
 
-10% of each bar is whole pistachios, which is roughly x whole coffee beans
+3% of each bar is whole pistachios, which is roughly 10 whole coffee beans
 
 
 #### Raw Materials
