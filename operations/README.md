@@ -1,16 +1,18 @@
 ### Tasks
-1. Grind
-2. Temper
-3. Mold
-4. Wrap
-5. Label
+1. Roast
+2. Crack
+3. Grind
+4. Temper
+5. Mold
+6. Wrap
+7. Label
 
-Total batch = 9.6lb
-- Mix dry ingredients in separate bag
-- Melt cacao butter in Instapot Pro on saute, low
-- Start grinder 1pm
+Standard batch = 9.8lb
+- Melt cacao butter in InstantPot Pro on saute, low
+- Start grinder
 - Add cacao butter to grinder 
-- Slowly add 1 ladel of dry mix ingredients to grinder per 10 seconds 
+- Slowly add dry mix ingredients to grinder
+- standard grind = 24hrs
 - Turn on Chocovison Revolation setting: dark, temper 2
 - Add chocolate, Temper AWAY!!!
 - Add 'seed', minimumm 5% of total weight
