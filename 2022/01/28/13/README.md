@@ -5,15 +5,15 @@
 
 | Item | Quantity | UoM  |
 | :---     | ---:    | :--- |
-| Hazelnut   | 0.35  | lb      |
-| Cacao Butter   | 0.3   | lb    |
-| Cacao Nibs  | 0.1   | lb    |
+| Cacao Nibs   | 0.35   | lb    |
+| Cacao Butter   | 0.2   | lb    |
+| Hazelnut   | 0.2  | lb      |
 | Coconut Nectar   | 0.2 | lb      |
 | Banana  | 0.05 (0.8oz)      | lb      |
 
 #### Raw Materials
-- [ ] Organic Hazelnuts
-- [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
 - [ ] Organic Cacao Nibs
+- [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
+- [ ] Organic Hazelnuts
 - [ ] Organic Coconut Blossom Nectar [[2](/vendors)]
 - [ ] Organic Banana Powder
