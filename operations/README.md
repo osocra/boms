@@ -8,7 +8,7 @@
 7. Label
 
 Standard batch = 9.8lb
-- Melt cacao butter in InstantPot Pro on saute, low
+- Melt cacao butter in [InstantPot Pro](/resources/4) on saute, low
 - Start grinder
 - Add cacao butter to grinder 
 - Slowly add dry mix ingredients to grinder
