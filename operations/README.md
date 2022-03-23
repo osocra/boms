@@ -12,10 +12,10 @@ Standard batch = 9.8lb
 - Start grinder
 - Add cacao butter to grinder 
 - Slowly add dry mix ingredients to grinder
-- standard grind = 24hrs
+- Standard grind = 24hrs
 - Turn on Chocovison Revolation setting: dark, temper 2
 - Add chocolate, Temper AWAY!!!
 - Add 'seed', minimumm 5% of total weight
 - Mold 1.6oz per Tomric G-402 well
 - Foil wrap 7.5" x 6" 
-- print labels
+- Print labels
