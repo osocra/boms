@@ -1,8 +1,8 @@
 ### Tasks
-1. Roast
-2. Crack
-3. Grind
-4. Temper
+1. [Roast](/resources/1)
+2. [Crack](/resources/2)
+3. [Grind](/resources/5)
+4. [Temper](/resources/6)
 5. Mold
 6. Wrap
 7. Label
