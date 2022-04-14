@@ -10,7 +10,7 @@
 - Soy
 
 ## Blurb
-> ???
+> Ucayali River, Pucallpa, Peru
 
 ## Ingredients
 > Cacao, Coconut Nectar
