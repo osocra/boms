@@ -48,8 +48,9 @@ Support our project and buy our chocolate at [osocra.com](https://osocra.com) to
 |           |               |           | Pista    | Coconut Nectar | Varies             | Dark      | Truffle Pista           |[22021715](2022/02/17/15)|
 |           |               |           |          | Coconut Nectar | Indonesia          | Midnight  | Indonesia               |[22022810](2022/02/28/10)|
 |           |               |           |          |                | Ecuador            | Blackout  | Ecuador                 |[22022811](2022/02/28/11)|
-|           | Ghost Pepper  |           | Coco     | Coconut Nectar | Varies             | Dark      | Coco Ghost Pepper            |[22030415](2022/03/04/15)|
-|           |               |           | Pista    | Coconut Nectar | Varies             | Dark      | Pista              |[22030416](2022/03/04/16)|
+|           | Ghost Pepper  |           | Coco     | Coconut Nectar | Varies             | Dark      | Coco Ghost Pepper       |[22030415](2022/03/04/15)|
+|           |               |           | Pista    | Coconut Nectar | Varies             | Dark      | Pista                   |[22030416](2022/03/04/16)|
+|           |   Date        |           |          |                | Varies             | Dark      | Date                    |[22042114](2022/04/21/14)|
 
 ## Naming Convention:
 > Start from the top to bottom. A simple example with only 71% Cacao from Equador is "Dark Ecuador". A more complex example is "Mylk Crème Rooibos Persimmon Truffle Marmalade"
