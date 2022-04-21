@@ -10,6 +10,6 @@
 | Coconut Nectar   | 0.20      | lb      |
 
 #### Raw Materials
-- [ ] Organic Cacao Beans -  India / Anamali Mountains [[1](/vendors/1)]
+- [ ] Organic Cacao Beans -  India / Anamalai Mountains [[1](/vendors/1)]
 - [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors/1)]
 - [ ] Organic Coconut Blossom Nectar [[2](/vendors/2)]
