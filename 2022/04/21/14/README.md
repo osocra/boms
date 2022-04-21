@@ -10,6 +10,6 @@
 | Date     | 0.2      | lb      |
 
 #### Raw Materials
-- [ ] Organic Cacao Beans [[1](/vendors)]
+- [ ] Organic Cacao Beans -  Varies [[1](/vendors)]
 - [ ] Organic Cacao Butter - Peru, Natural [[2](/vendors)]
-- [ ] Organic Dates [[3](/vendors)]
+- [ ] Organic Dates
