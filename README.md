@@ -75,7 +75,7 @@ Support our project and buy our chocolate at [osocra.com](https://osocra.com) to
 > Cashew, Goji Berry,  Persimmon, Pistachio
 
 ### Truffle (Filling):
-> Butterscotch, Ghee, Marmalade, Marzipan 
+> Butterscotch, Ghee, Marmalade, Marzipan, Pistachio, Cashew
 
 ### Sweetener:
 > Coconut Nectar, Cane Sugar, Maple Sugar
