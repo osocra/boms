@@ -3,7 +3,7 @@
 ### Notes and Observations
 - Batch size: 9.8lb
 - Grinder: Joseph
-- Measure Raw beans = 9.8lbs*0.45 = 4.41lbs 
+- Measure Raw beans = 9.8lbs*0.5 = 4.9lbs 
   - Roast 4.9lbs beans
   - Husks included in this batch
 - BOMs away at 1400
