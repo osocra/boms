@@ -1,4 +1,4 @@
-## Origin: Mucambo Estate / Brasil 2021
+## Origin: Ransiki / Indonesia 2021
 
 ### Notes and Observations
 - Batch size: 9.8lb
@@ -11,5 +11,5 @@
 
 ### Ingredient Tracing
 - Cacao Beans
-  - Vender: Mucambo Estate
-  - Lot: Sept 2021
+  - Vender: Meridian Cacao
+  - Lot: August 2021
