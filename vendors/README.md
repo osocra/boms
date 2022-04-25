@@ -8,7 +8,9 @@
 - Coconut
   - [Food To Live](3)
 - Coffee
-  - [Red Whale Coffee](10)
+  - [Red Whale Coffee](11)
+- Fruit
+  - [Date Lady](10)
 - Olive Oil
   - [California Olive Ranch](5)
   - [Amphora Nueva Marin](8)
