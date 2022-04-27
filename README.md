@@ -101,7 +101,7 @@ Support our project and buy our chocolate at [osocra.com](https://osocra.com) to
 
 | Blueberry | Mango   | Matcha  | Raspberry |
 | :---      | :---    | :---    | :---      |
-| #a47149   | #eed9c4 | #d5e4c0 | #90795c   |
+| #7B9DF7   | #ff8243 | #86a96f | #E96792   |
 
 #### Sweetener
 
