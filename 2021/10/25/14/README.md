@@ -5,11 +5,12 @@
 
 | Item | Quantity | UoM  |
 | :---     | ---:    | :--- |
-| Cacao Nibs  | 0.35    | lb    |
-| Cacao Butter   | 0.35    | lb    |
-| Coconut Nectar    | 0.2      | lb      |
-| Persimmons    | 0.095 (1.52 oz)    | lb      |
+| Cacao Beans  | 0.6    | lb    |
+| Cacao Butter   | 0.2    | lb    |
+| Coconut Nectar   | 0.195   | lb      |
 | Pumpkin Spice     | 0.005 (0.08 oz)    | lb      |
+
+5% of each bar is persimmons
 
 #### Raw Materials
 - [ ] Organic Cacao Beans -  Brasil / Mucambo Estate [[4](/vendors)]
