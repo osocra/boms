@@ -5,11 +5,12 @@
 
 | Item | Quantity | UoM  |
 | :---     | ---:    | :--- |
-| Cacao Nibs  | 0.36    | lb    |
-| Cacao Butter   | 0.36    | lb    |
-| Coconut Nectar    | 0.2655     | lb      |
-| Ginger    | 0.0095 (0.152 oz)    | lb      |
+| Cacao Beans  | 0.6    | lb    |
+| Cacao Butter   | 0.2    | lb    |
+| Coconut Nectar   | 0.195   | lb      |
 | Turmeric     | 0.005 (0.08 oz)    | lb      |
+
+1% of each bar is ginger
 
 #### Raw Materials
 - [ ] Organic Cacao Beans -  Equador / Camino Verde [[1](/vendors)]
