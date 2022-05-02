@@ -9,8 +9,9 @@
 | Cacao Nibs  | 0.50    | lb    |
 | Cacao Butter   | 0.20    | lb    |
 | Coconut Nectar    | 0.2      | lb      |
-| Cashew   | 0.0975 (1.56 oz)    | lb      |
 | Pink Salt    | 0.0025 (0.04 oz)    | lb      |
+
+add 5% Cashew 0.0975 (1.56 oz) per 1 lb
 
 #### Raw Materials
 - [ ] Organic Cacao Beans -  Equador / Camino Verde [[1](/vendors)]
