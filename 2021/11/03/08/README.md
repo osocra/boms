@@ -6,8 +6,8 @@
 
 | Item | Quantity | UoM  |
 | :---     | ---:    | :--- |
-| Cacao Nibs  | 0.35    | lb    |
-| Cacao Butter   | 0.35    | lb    |
+| Cacao Nibs  | 0.50    | lb    |
+| Cacao Butter   | 0.20    | lb    |
 | Coconut Nectar    | 0.2      | lb      |
 | Cashew   | 0.0975 (1.56 oz)    | lb      |
 | Pink Salt    | 0.0025 (0.04 oz)    | lb      |
