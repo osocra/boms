@@ -5,8 +5,8 @@
 
 | Item | Quantity | UoM  |
 | :---     | ---:    | :--- |
-| Cacao Nibs  | 0.35    | lb    |
-| Cacao Butter   | 0.35    | lb    |
+| Cacao Nibs  | 0.50    | lb    |
+| Cacao Butter   | 0.20    | lb    |
 | Coconut Nectar   | 0.2      | lb      |
 | Coconut   | 0.1      | lb      |
 
