@@ -5,8 +5,8 @@
 
 | Item | Quantity | UoM  |
 | :---     | ---:    | :--- |
-| Cacao Nibs  | 0.37    | lb    |
-| Cacao Butter   | 0.37    | lb    |
+| Cacao Nibs  | 0.54    | lb    |
+| Cacao Butter   | 0.2    | lb    |
 | Coconut Nectar    | 0.22      | lb      |
 | EVOO Blood Orange    | 0.04 (0.64 oz)     | lb      |
 
