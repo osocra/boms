@@ -14,7 +14,7 @@
 
 
 #### Raw Materials
-- [ ] Organic Cacao Beans -  Equador / Camino Verde [[1](/vendors)]
+- [ ] Organic Cacao Beans -  Varies
 - [ ] Organic Cacao Butter - Peru, Natural [[1](/vendors)]
 - [ ] Organic Coconut Blossom Nectar [[2](/vendors)]
 - [ ] Organic Pistachios [[7](/vendors)]
