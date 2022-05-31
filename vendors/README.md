@@ -11,10 +11,10 @@
   - [Red Whale Coffee](11)
 - Fruit
   - [Date Lady](10)
+- Nut
+  - [Fiddyment Farms](7)
 - Olive Oil
   - [California Olive Ranch](5)
   - [Amphora Nueva Marin](8)
 - Salt
   - [Pepper Creek Ranch](6)
-- Pistachio
-  - [Fiddyment Farms](7)
