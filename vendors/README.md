@@ -1,20 +1,20 @@
 - Cacao
-  - [Meridian](1)
-  - [Mucambo Estate Uruçuca, Bahia, Brasil](4)
+  - Meridian (1)
+  - Mucambo Estate Uruçuca, Bahia, Brasil (4)
 - Cane Sugar
-  - [Costco](9)
+  - Costco (9)
 - Coconut Nectar
-  - [Madhava](2)
+  -  Madhava (2)
 - Coconut
-  - [Food To Live](3)
+  - Food To Live (3)
 - Coffee
-  - [Red Whale Coffee](11)
+  - Red Whale Coffee (11)
 - Fruit
-  - [Date Lady](10)
+  - Date Lady (10)
 - Nut
-  - [Fiddyment Farms](7)
+  - Fiddyment Farms (7)
 - Olive Oil
-  - [California Olive Ranch](5)
-  - [Amphora Nueva Marin](8)
+  - California Olive Ranch (5)
+  - Amphora Nueva Marin (8)
 - Salt
-  - [Pepper Creek Ranch](6)
+  - Pepper Creek Ranch (6)
