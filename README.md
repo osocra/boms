@@ -21,7 +21,7 @@ Support our project and buy our chocolate at [osocra.com](https://osocra.com) to
 | Olive Oil |               |           |          | Coconut Nectar | Varies             | Dark      | EVOO                    |[21121510](2021/12/15/10)|
 | Olive Oil | Blood Orange  |           |          | Coconut Nectar | Varies             | Dark      | EVOO Blood Orange       |[21121816](2021/12/18/16)|
 | Coconut   | Rose, Cardamom|           |          | Coconut Nectar | Varies             | Dark      | Coco Rose               |[22011215](2022/01/12/15)|
-| Cashew    | Rose, Cardamom|           |          | Coconut Nectar | Varies             | Dark Mylk | Crème Rose              |[22011216](2022/01/12/16)|
+| Cashew    | Rose, Cardamom|           |          | Coconut Nectar | Varies             | Mylk | Crème Rose              |[22011216](2022/01/12/16)|
 | Cashew    | Raspberry, Rose, Cardamom ||         | Coconut Nectar | Varies             | White     | Crème Raspberry Rose    |[22011217](2022/01/12/17)|
 | Coconut   | Raspberry     |           |          | Cane Sugar     | Varies             | White     | Coco Raspberry          |[22011512](2022/01/15/12)|
 | Almond    | Raspberry     |           |          | Cane Sugar     | Varies             | White     | Marzipan Raspberry      |[22011513](2022/01/15/13)|
