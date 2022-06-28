@@ -51,7 +51,7 @@ Support our project and buy our chocolate at [osocra.com](https://osocra.com) to
 |           | Ghost Pepper  |           | Coco     | Coconut Nectar | Varies             | Dark      | Coco Ghost Pepper       |[22030415](2022/03/04/15)|
 |           |               |           | Pista    | Coconut Nectar | Varies             | Dark      | Pista                   |[22030416](2022/03/04/16)|
 |           | Date          |           |          |                | Varies             | Dark      | Date                    |[22042114](2022/04/21/14)|
-|           | Espresso      |           |          | Coconut Nectar | Varies             | Dark      | Espresso                |[22042115](2022/04/21/15)|
+|           | Espresso      |           |          |                | Varies             | Dark      | Espresso                |[22042115](2022/04/21/15)|
 
 ## Naming Convention:
 > Start from the top to bottom. A simple example with only 71% Cacao from Equador is "Dark Ecuador". A more complex example is "Mylk Crème Rooibos Persimmon Truffle Marmalade"
