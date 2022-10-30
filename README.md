@@ -64,21 +64,21 @@ Support our project and buy our chocolate at [osocra.com](https://osocra.com) to
 
 ### Base:
 
-| Crème     | Marzipan   | Coco      | Avelã     | EVOO       | Ghee    | Pista     | Badam  | Pecã  |
-| :---      | :---       | :---      | :---      | :---       | :---    | :---      | :---   | :---  |
-| Cashew    | Almond     | Coconut   | Hazelnut  | Olive Oil  | Ghee    | Pistachio | Peanut | Pecan |
+| Avelã    | Badam  | Coco     | Crème     | EVOO      | Ghee  | Marzipan  | Pecã  | Pista
+| :---     | :---   | :---     | :---      | :---      | :---  | :---      | :---  | :---  
+| Hazelnut | Peanut | Coconut  | Cashew    | Olive Oil | Ghee  | Almond    | Pecan | Pistachio
 
 ### Infusion:
-> Raspberry, Mango, Blueberry, Rooibos, Turmeric, Cardamom, Rose Petal, Blood Orange, Pumpkin Spice, Pink Salt, Açaí, Maracujá, Espresso Bean, Matcha, Banana, Cupuaçu, Vanilla, Butterscotch, Goji Berry, Mint, Resveratrol, Cayenne, Ghost Pepper
+>  Açaí, Banana, Blood Orange, Blueberry, Butterscotch, Cardamom, Cayenne, Cupuaçu, Espresso Bean, Ghost Pepper, Goji Berry, Mango, Maracujá, Matcha, Pink Salt, Mint, Pumpkin Spice, Raspberry, Resveratrol, Rooibos, Rose Petal, Turmeric, Vanilla
 
 ### Inclusion:
-> Cashew, Goji Berry,  Persimmon, Pistachio
+> Cashew, Goji Berry, Persimmon, Pistachio
 
 ### Truffle (Filling):
-> Butterscotch, Ghee, Marmalade, Marzipan, Pistachio, Cashew
+> Butterscotch, Cashew, Ghee, Marmalade, Marzipan, Pistachio,
 
 ### Sweetener:
-> Coconut Nectar, Cane Sugar, Maple Sugar
+> Date, Coconut Nectar, Cane Sugar, Maple Sugar
 
 ### Origin:
 > Brasil, Dominican Republic, Ecuador, India, Indonesia, Madagascar, Peru, Tanzania, Trinidad, Vietnam 
@@ -93,9 +93,9 @@ Support our project and buy our chocolate at [osocra.com](https://osocra.com) to
 
 #### Base
 
-| Crème    | Marzipan | Coco    | Avelã     | Pista   | Ghee
-| :---     | :---     | :---    | :---      | :---    | :--- 
-| #a47149  | #eed9c4  | #d5e4c0 | #90795c   | #93C572 | #efc850
+Avelã   | Coco    | Crème    | Ghee     | Marzipan  | Pista    
+:---    | :---    |  :---    | :---     | :---      | :---     
+#90795c | #d5e4c0 | #efc850  | #a47149  | #eed9c4   | #93C572  
 
 #### Infusion
 
@@ -105,6 +105,6 @@ Support our project and buy our chocolate at [osocra.com](https://osocra.com) to
 
 #### Sweetener
 
-| Coconut Nectar | Cane Sugar  |
-| :---           | :---        |
-| #965a3e        | #eeefdf     |
+| Date | Coconut Nectar | Cane Sugar | 
+| :--- | :---           | :---       | 
+| #    | 965a3e         | #eeefdf    |  
