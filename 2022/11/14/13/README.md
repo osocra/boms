@@ -5,11 +5,11 @@
 
 | Item | Quantity | UoM  |
 | :---     | ---:    | :--- |
-| Cacao Nibs  | 0.50    | lb    |
-| Cacao Butter   | 0.20    | lb    |
-| Coconut Nectar   | 0.2      | lb      |
-| Coconut   | 0.1      | lb      |
-| Passion Fruit   | 0.05      | lb      |
+| Cacao Nibs  | 0.33    | lb    |
+| Cacao Butter   | 0.33    | lb    |
+| Coconut Nectar   | 0.19      | lb      |
+| Coconut   | 0.095      | lb      |
+| Passion Fruit   | 0.055      | lb      |
 
 
 #### Raw Materials
