@@ -1,4 +1,4 @@
-### Dark Coco Passio Fruit
+### Dark Coco Passion Fruit
 > Flavor profile: coconut | Passion Fruit
 
 [![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/products/22021322)
