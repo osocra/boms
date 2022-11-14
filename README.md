@@ -52,6 +52,7 @@ Support our project and buy our chocolate at [osocra.com](https://osocra.com) to
 |           |               |           | Pista    | Coconut Nectar | Varies             | Dark      | Pista                   |[22030416](2022/03/04/16)|
 |           | Date          |           |          |                | Varies             | Dark      | Date                    |[22042114](2022/04/21/14)|
 |           | Espresso      |           |          |                | Varies             | Dark      | Espresso                |[22042115](2022/04/21/15)|
+|           | Passion Fruit |           | Coco     | Coconut Nectar | Varies             | Dark      | Passion Fruit           |[22111413](2022/11/14/13)|
 
 ## Naming Convention:
 > Start from the top to bottom. A simple example with only 71% Cacao from Equador is "Dark Ecuador". A more complex example is "Mylk Crème Rooibos Persimmon Truffle Marmalade"
