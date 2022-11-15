@@ -11,7 +11,7 @@
   - Red Whale Coffee (11)
 - Fruit
   - Date Lady (10)
-  - Freeze Dried Fruit (12)
+  - Microingredients (12)
 - Nut
   - Fiddyment Farms (7)
 - Olive Oil
