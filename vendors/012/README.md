@@ -1,2 +1,2 @@
 - Vendor: Microingredients
-- URL: [https://www.redwhalecoffee.com/collections/coffee/products/red-whale-espresso-blend](https://www.amazon.com/stores/MicroIngredients/page/3C333FA4-F5D4-4E64-A63E-5A45F51DD3A3?ref_=ast_bln)
+- URL: [https://www.amazon.com/stores/MicroIngredients/page/3C333FA4-F5D4-4E64-A63E-5A45F51DD3A3?ref_=ast_bln]
