@@ -1,4 +1,4 @@
-### Dark Coco Passion Fruit
+### Dark Mylk Coco Passion Fruit
 > Flavor profile: coconut | passion fruit
 
 [![Buy Now](/assets/images/buy-now.png "Buy Now")](https://shop.osocra.com/products/22111413)
