@@ -19,3 +19,4 @@ Standard batch = 9.8lb
 - Mold 1.6oz per Tomric G-402 well
 - Foil wrap 7.5" x 6" 
 - Print labels
+- Press Labels
